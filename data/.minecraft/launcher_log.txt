@@ -1,0 +1,779 @@
+[Info: 2022-04-06 10:04:08.0343762: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2022-04-06 10:04:08.0347846: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2022-04-06 10:04:08.0348443: mainWindows.cpp(86)] Running launcher bootstrap (version 1.0.1212)
+[Error: 2022-04-06 10:04:08.0576083: Settings.cpp(43)] Failed to determine configuration file size: Le fichier spécifié est introuvable.
+[Info: 2022-04-06 10:04:08.0594296: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2022-04-06 10:04:08.0600064: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Error: 2022-04-06 10:04:08.0691970: Settings.cpp(43)] Failed to determine configuration file size: Le fichier spécifié est introuvable.
+[Info: 2022-04-06 10:04:08.0694780: Common.cpp(32)] Native Launcher Version: 1.0.1212
+[Info: 2022-04-06 10:04:08.0695066: Common.cpp(33)] Operating System: Windows 10 Home
+[Info: 2022-04-06 10:04:08.0695568: Common.cpp(34)] Application Data directory: C:\...\.minecraft
+[Info: 2022-04-06 10:04:08.0714850: Common.cpp(35)] Executable Path: /:\...\Minecraft.exe
+[Info: 2022-04-06 10:04:08.0715152: Common.cpp(36)] App Directory dir: C:\...\bin
+[Info: 2022-04-06 10:04:08.0715379: Common.cpp(37)] Game data directory: C:\...\.minecraft
+[Info: 2022-04-06 10:04:08.0715605: Common.cpp(38)] Launcher dir: C:\...\game
+[Info: 2022-04-06 10:04:08.0715822: Common.cpp(39)] Java dir: C:\...\jre-x64
+[Info: 2022-04-06 10:04:08.0716035: Common.cpp(40)] TmpDir dir: C:\...\MinecraftLauncher
+[Info: 2022-04-06 10:04:08.0716261: Common.cpp(41)] x64: true
+[Info: 2022-04-06 10:04:08.0716450: LauncherConfiguration.cpp(292)] Using update preferences at path: C:\...\launcher_profiles.json
+[Info: 2022-04-06 10:04:08.0716990: LauncherConfiguration.cpp(306)] Using update preferences at path: C:\...\launcher_settings.json
+[Info: 2022-04-06 10:04:08.0719305: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2022-04-06 10:04:08.2581201: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launchermeta.mojang.com
+[Info: 2022-04-06 10:04:08.2581589: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2022-04-06 10:04:08.2581758: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2022-04-06 10:04:08.2586289: LauncherConfiguration.cpp(198)] Deciding on update with strategy 0 and clientID 0
+[Info: 2022-04-06 10:04:08.2586559: LauncherConfiguration.cpp(215)] Version of launcher-bootstrap is current, no action is necessary.
+[Info: 2022-04-06 10:04:08.2586753: LauncherConfiguration.cpp(248)] Bootstrap is current
+[Info: 2022-04-06 10:04:08.2587244: LauncherConfiguration.cpp(261)] Error opening: C:\...\.version, Error message: no such file or directory
+[Info: 2022-04-06 10:04:08.2587583: LauncherConfiguration.cpp(198)] Deciding on update with strategy 0 and clientID 0
+[Info: 2022-04-06 10:04:08.2587765: LauncherConfiguration.cpp(219)] We should change launcher-core-v2 from unknown to 2.2.12145
+[Info: 2022-04-06 10:04:08.2587935: LauncherConfiguration.cpp(238)] launcher-core-v2 update is needed.
+[Info: 2022-04-06 10:04:08.2588221: main.cpp(41)] Game launcher outdated!
+[Info: 2022-04-06 10:04:08.2588942: UpdatePistonComponent.cpp(57)] Piston update in folder C:\...\game will now run. (https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json to version 2.2.12145)
+[Info: 2022-04-06 10:04:08.2589361: PistonUpdate.cpp(606)] Downloading https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json
+[Info: 2022-04-06 10:04:08.2590658: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json
+[Info: 2022-04-06 10:04:08.3236357: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launchermeta.mojang.com
+[Info: 2022-04-06 10:04:08.3236907: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json
+[Info: 2022-04-06 10:04:08.3237151: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json
+[Info: 2022-04-06 10:04:08.3265557: PistonUpdate.cpp(682)] Target path: C:\...\game
+[Info: 2022-04-06 10:04:08.3273099: PistonUpdate.cpp(698)] Staging path: C:\...\PistonStaging
+[Info: 2022-04-06 10:04:08.3318606: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/d83068ff495c64283d3bb46544956ab05de6a448/JavaCheck.jar
+[Info: 2022-04-06 10:04:08.3377533: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/8f157cc1ab1c18bf47305543b149604797cd6587/cef.pak
+[Info: 2022-04-06 10:04:08.3532557: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/2da1b18943265f473f6b87b63132dbb2398ff487/cef_100_percent.pak
+[Info: 2022-04-06 10:04:08.3687753: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/1ad557cecf3d54a5fbe471ceab189d344fef347c/cef_200_percent.pak
+[Info: 2022-04-06 10:04:08.3849848: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/229367ac0be0a2da9d6338cba6f45c07f790140c/cef_extensions.pak
+[Info: 2022-04-06 10:04:08.3999799: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/c8f5d475611f36834502aad800baae47044afef9/chrome_elf.dll
+[Info: 2022-04-06 10:04:08.5511158: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:08.5511561: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/d83068ff495c64283d3bb46544956ab05de6a448/JavaCheck.jar
+[Info: 2022-04-06 10:04:08.5513115: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/d83068ff495c64283d3bb46544956ab05de6a448/JavaCheck.jar
+[Info: 2022-04-06 10:04:08.5513479: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/63d1e66b09d49cd343d234ef0eab840cf1bac5f2/d3dcompiler_47.dll
+[Info: 2022-04-06 10:04:10.4865979: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:10.4866399: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/2da1b18943265f473f6b87b63132dbb2398ff487/cef_100_percent.pak
+[Info: 2022-04-06 10:04:10.4867582: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/2da1b18943265f473f6b87b63132dbb2398ff487/cef_100_percent.pak
+[Info: 2022-04-06 10:04:10.4867943: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/15ca8509e04a30a8e093f11cee9dcab94f07f4ec/icudtl.dat
+[Info: 2022-04-06 10:04:10.8425486: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:10.8425888: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/c8f5d475611f36834502aad800baae47044afef9/chrome_elf.dll
+[Info: 2022-04-06 10:04:10.8427324: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/c8f5d475611f36834502aad800baae47044afef9/chrome_elf.dll
+[Info: 2022-04-06 10:04:10.8427679: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/0ed6423e26978b7e4241c2bc6e1477994f1312d9/launcher.dll
+[Info: 2022-04-06 10:04:11.9438555: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:11.9439121: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/1ad557cecf3d54a5fbe471ceab189d344fef347c/cef_200_percent.pak
+[Info: 2022-04-06 10:04:11.9440533: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/1ad557cecf3d54a5fbe471ceab189d344fef347c/cef_200_percent.pak
+[Info: 2022-04-06 10:04:11.9441128: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/5173e9b55e85298a3d029ce96352e0aabb2ee497/libEGL.dll
+[Info: 2022-04-06 10:04:13.0489197: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:13.0489611: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/5173e9b55e85298a3d029ce96352e0aabb2ee497/libEGL.dll
+[Info: 2022-04-06 10:04:13.0490776: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/5173e9b55e85298a3d029ce96352e0aabb2ee497/libEGL.dll
+[Info: 2022-04-06 10:04:13.0491114: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/0cbf9d5fa44ff28432791d39e143c49f2c024213/libGLESv2.dll
+[Info: 2022-04-06 10:04:18.9521097: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:18.9521496: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/8f157cc1ab1c18bf47305543b149604797cd6587/cef.pak
+[Info: 2022-04-06 10:04:18.9522652: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/8f157cc1ab1c18bf47305543b149604797cd6587/cef.pak
+[Info: 2022-04-06 10:04:18.9523447: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/a3eef93b7931025da96e1250a0193ee3415d5b72/libcef.dll
+[Info: 2022-04-06 10:04:21.3980083: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:21.3980473: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/63d1e66b09d49cd343d234ef0eab840cf1bac5f2/d3dcompiler_47.dll
+[Info: 2022-04-06 10:04:21.3981766: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/63d1e66b09d49cd343d234ef0eab840cf1bac5f2/d3dcompiler_47.dll
+[Info: 2022-04-06 10:04:21.3982113: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/f438a7a01933ef2d8e403643a7ab3d256633880b/am.pak
+[Info: 2022-04-06 10:04:22.1478583: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:22.1479006: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/f438a7a01933ef2d8e403643a7ab3d256633880b/am.pak
+[Info: 2022-04-06 10:04:22.1481348: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/f438a7a01933ef2d8e403643a7ab3d256633880b/am.pak
+[Info: 2022-04-06 10:04:22.1482261: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/d526f9cb66f5cbafc522c9a0039adbf933326c5b/ar.pak
+[Info: 2022-04-06 10:04:22.8945122: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:22.8945513: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/d526f9cb66f5cbafc522c9a0039adbf933326c5b/ar.pak
+[Info: 2022-04-06 10:04:22.8946998: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/d526f9cb66f5cbafc522c9a0039adbf933326c5b/ar.pak
+[Info: 2022-04-06 10:04:22.8947381: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/4fa04a95368c0809bd481fb221abc1bdff128aeb/bg.pak
+[Info: 2022-04-06 10:04:23.7369975: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:23.7370366: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/4fa04a95368c0809bd481fb221abc1bdff128aeb/bg.pak
+[Info: 2022-04-06 10:04:23.7371509: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/4fa04a95368c0809bd481fb221abc1bdff128aeb/bg.pak
+[Info: 2022-04-06 10:04:23.7371842: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/c64f79ab0c450505ec8fcbb5350c8f29275ee1c9/bn.pak
+[Info: 2022-04-06 10:04:24.5760803: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:24.5761636: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/c64f79ab0c450505ec8fcbb5350c8f29275ee1c9/bn.pak
+[Info: 2022-04-06 10:04:24.5762988: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/c64f79ab0c450505ec8fcbb5350c8f29275ee1c9/bn.pak
+[Info: 2022-04-06 10:04:24.5763325: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/09a0a09b96f7f925394ec3a928c152123a6d3fee/ca.pak
+[Info: 2022-04-06 10:04:25.2378066: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:25.2378441: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/229367ac0be0a2da9d6338cba6f45c07f790140c/cef_extensions.pak
+[Info: 2022-04-06 10:04:25.2380426: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/229367ac0be0a2da9d6338cba6f45c07f790140c/cef_extensions.pak
+[Info: 2022-04-06 10:04:25.2380869: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/cce3109721a8c28982e602222199f2307f65ac5b/cs.pak
+[Info: 2022-04-06 10:04:25.3717007: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:25.3717752: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/09a0a09b96f7f925394ec3a928c152123a6d3fee/ca.pak
+[Info: 2022-04-06 10:04:25.3719687: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/09a0a09b96f7f925394ec3a928c152123a6d3fee/ca.pak
+[Info: 2022-04-06 10:04:25.3720002: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/5f7b65fa9dae5a51c598cb009e4f59114ab4abb7/da.pak
+[Info: 2022-04-06 10:04:26.1007332: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:26.1007688: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/5f7b65fa9dae5a51c598cb009e4f59114ab4abb7/da.pak
+[Info: 2022-04-06 10:04:26.1008703: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/5f7b65fa9dae5a51c598cb009e4f59114ab4abb7/da.pak
+[Info: 2022-04-06 10:04:26.1009323: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/0c8e58a5f2e6f77ff9de2a84586ea22e46abd0c3/de.pak
+[Info: 2022-04-06 10:04:26.4720988: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:26.4721394: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/cce3109721a8c28982e602222199f2307f65ac5b/cs.pak
+[Info: 2022-04-06 10:04:26.4722604: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/cce3109721a8c28982e602222199f2307f65ac5b/cs.pak
+[Info: 2022-04-06 10:04:26.4722934: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/3d4633994ef32f93b71fce93c42280152bf05ebc/el.pak
+[Info: 2022-04-06 10:04:26.8845602: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:26.8846024: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/0c8e58a5f2e6f77ff9de2a84586ea22e46abd0c3/de.pak
+[Info: 2022-04-06 10:04:26.8847192: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/0c8e58a5f2e6f77ff9de2a84586ea22e46abd0c3/de.pak
+[Info: 2022-04-06 10:04:26.8847527: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/0d7488438a5ebcc59555e39e0edf29b584d10f17/en-GB.pak
+[Info: 2022-04-06 10:04:27.5458703: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:27.5459247: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/0d7488438a5ebcc59555e39e0edf29b584d10f17/en-GB.pak
+[Info: 2022-04-06 10:04:27.5460749: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/0d7488438a5ebcc59555e39e0edf29b584d10f17/en-GB.pak
+[Info: 2022-04-06 10:04:27.5461095: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/893b3113771076301b10ff09c0301a7ab995bba2/en-US.pak
+[Info: 2022-04-06 10:04:27.8201530: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:27.8201930: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/3d4633994ef32f93b71fce93c42280152bf05ebc/el.pak
+[Info: 2022-04-06 10:04:27.8203096: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/3d4633994ef32f93b71fce93c42280152bf05ebc/el.pak
+[Info: 2022-04-06 10:04:27.8204089: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/c3f53193e72d2785311f309fdc4d855ffc7d7ecd/es-419.pak
+[Info: 2022-04-06 10:04:28.1947626: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:28.1948003: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/893b3113771076301b10ff09c0301a7ab995bba2/en-US.pak
+[Info: 2022-04-06 10:04:28.1949108: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/893b3113771076301b10ff09c0301a7ab995bba2/en-US.pak
+[Info: 2022-04-06 10:04:28.1949856: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/6144fd8887237197dd0c3a13efca862f557cfb54/es.pak
+[Info: 2022-04-06 10:04:28.7787324: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:28.7787727: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/0cbf9d5fa44ff28432791d39e143c49f2c024213/libGLESv2.dll
+[Info: 2022-04-06 10:04:28.7789339: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/0cbf9d5fa44ff28432791d39e143c49f2c024213/libGLESv2.dll
+[Info: 2022-04-06 10:04:28.7790296: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/d913ffba47b20c2e5083780adf19c69247780c36/et.pak
+[Info: 2022-04-06 10:04:28.9027193: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:28.9027482: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/6144fd8887237197dd0c3a13efca862f557cfb54/es.pak
+[Info: 2022-04-06 10:04:28.9028560: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/6144fd8887237197dd0c3a13efca862f557cfb54/es.pak
+[Info: 2022-04-06 10:04:28.9029304: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/b4e5d90f6fd744febe7f8987597699d22e20f0ca/fa.pak
+[Info: 2022-04-06 10:04:29.0338784: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:29.0339178: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/c3f53193e72d2785311f309fdc4d855ffc7d7ecd/es-419.pak
+[Info: 2022-04-06 10:04:29.0340327: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/c3f53193e72d2785311f309fdc4d855ffc7d7ecd/es-419.pak
+[Info: 2022-04-06 10:04:29.0340649: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/95a4b4ec2afc914b866011f94e4d9f7aae51c19c/fi.pak
+[Info: 2022-04-06 10:04:29.1813371: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:29.1813836: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/d913ffba47b20c2e5083780adf19c69247780c36/et.pak
+[Info: 2022-04-06 10:04:29.1815576: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/d913ffba47b20c2e5083780adf19c69247780c36/et.pak
+[Info: 2022-04-06 10:04:29.1816198: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/b5b4e96a2b3567f9c5a22848f3cea315ec852207/fil.pak
+[Info: 2022-04-06 10:04:29.6038678: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:29.6039082: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/b4e5d90f6fd744febe7f8987597699d22e20f0ca/fa.pak
+[Info: 2022-04-06 10:04:29.6040195: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/b4e5d90f6fd744febe7f8987597699d22e20f0ca/fa.pak
+[Info: 2022-04-06 10:04:29.6040948: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/f82b8cd1489a0c1f0f15aa3a9962224a5210b1fa/fr.pak
+[Info: 2022-04-06 10:04:29.7501316: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:29.7501711: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/b5b4e96a2b3567f9c5a22848f3cea315ec852207/fil.pak
+[Info: 2022-04-06 10:04:29.7503380: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/b5b4e96a2b3567f9c5a22848f3cea315ec852207/fil.pak
+[Info: 2022-04-06 10:04:29.7504394: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/f524c4a134acbeeef1a915bafadb51fd0a2d3638/gu.pak
+[Info: 2022-04-06 10:04:30.2248161: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:30.2248550: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/95a4b4ec2afc914b866011f94e4d9f7aae51c19c/fi.pak
+[Info: 2022-04-06 10:04:30.2249849: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/95a4b4ec2afc914b866011f94e4d9f7aae51c19c/fi.pak
+[Info: 2022-04-06 10:04:30.2250506: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/a2d665bb46dad1120c5e060a4092311457745226/he.pak
+[Info: 2022-04-06 10:04:30.3637014: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:30.3637425: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/f524c4a134acbeeef1a915bafadb51fd0a2d3638/gu.pak
+[Info: 2022-04-06 10:04:30.3638690: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/f524c4a134acbeeef1a915bafadb51fd0a2d3638/gu.pak
+[Info: 2022-04-06 10:04:30.3639037: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/642be1f9a0a378f1ae02918438a81dd1e8296372/hi.pak
+[Info: 2022-04-06 10:04:30.4998758: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:30.4999541: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/f82b8cd1489a0c1f0f15aa3a9962224a5210b1fa/fr.pak
+[Info: 2022-04-06 10:04:30.5000935: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/f82b8cd1489a0c1f0f15aa3a9962224a5210b1fa/fr.pak
+[Info: 2022-04-06 10:04:30.5001648: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/9dadb7a713ed585952b5a8da746bdff75704ac40/hr.pak
+[Info: 2022-04-06 10:04:31.1653529: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:31.1653915: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/9dadb7a713ed585952b5a8da746bdff75704ac40/hr.pak
+[Info: 2022-04-06 10:04:31.1655051: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/9dadb7a713ed585952b5a8da746bdff75704ac40/hr.pak
+[Info: 2022-04-06 10:04:31.1655813: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/a68693bc96cb796c8df7e1956b7390fb4edeff3d/hu.pak
+[Info: 2022-04-06 10:04:31.2012972: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:31.2013359: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/642be1f9a0a378f1ae02918438a81dd1e8296372/hi.pak
+[Info: 2022-04-06 10:04:31.2014514: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/642be1f9a0a378f1ae02918438a81dd1e8296372/hi.pak
+[Info: 2022-04-06 10:04:31.2014934: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/8eda96dc21552fefabf3fe3c0ed88082e760e416/id.pak
+[Info: 2022-04-06 10:04:31.7417181: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:31.7417561: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/8eda96dc21552fefabf3fe3c0ed88082e760e416/id.pak
+[Info: 2022-04-06 10:04:31.7418662: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/8eda96dc21552fefabf3fe3c0ed88082e760e416/id.pak
+[Info: 2022-04-06 10:04:31.7419053: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/0c33f2194763c078353c51fa38618ba8cb29bb5d/it.pak
+[Info: 2022-04-06 10:04:31.7568876: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:31.7569267: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/a2d665bb46dad1120c5e060a4092311457745226/he.pak
+[Info: 2022-04-06 10:04:31.7570416: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/a2d665bb46dad1120c5e060a4092311457745226/he.pak
+[Info: 2022-04-06 10:04:31.7570743: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/8351e634fa990f898721d5f9f852d28b928ad32e/ja.pak
+[Info: 2022-04-06 10:04:31.7864699: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:31.7866073: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/a68693bc96cb796c8df7e1956b7390fb4edeff3d/hu.pak
+[Info: 2022-04-06 10:04:31.7867555: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/a68693bc96cb796c8df7e1956b7390fb4edeff3d/hu.pak
+[Info: 2022-04-06 10:04:31.7868352: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/f136c578400239783f61808d1397412061547910/kn.pak
+[Info: 2022-04-06 10:04:32.5901242: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:32.5901744: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/f136c578400239783f61808d1397412061547910/kn.pak
+[Info: 2022-04-06 10:04:32.5903546: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/f136c578400239783f61808d1397412061547910/kn.pak
+[Info: 2022-04-06 10:04:32.5904102: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/a2abec9b7bd611b5d50010dbc2bf332a5f90e9b9/ko.pak
+[Info: 2022-04-06 10:04:32.8271576: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:32.8271953: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/0c33f2194763c078353c51fa38618ba8cb29bb5d/it.pak
+[Info: 2022-04-06 10:04:32.8273190: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/0c33f2194763c078353c51fa38618ba8cb29bb5d/it.pak
+[Info: 2022-04-06 10:04:32.8273575: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/9bdaa02d9648e96918ade3d1a73f244d71738d36/lt.pak
+[Info: 2022-04-06 10:04:32.8353506: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:32.8353864: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/8351e634fa990f898721d5f9f852d28b928ad32e/ja.pak
+[Info: 2022-04-06 10:04:32.8354916: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/8351e634fa990f898721d5f9f852d28b928ad32e/ja.pak
+[Info: 2022-04-06 10:04:32.8355264: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/344e77dfc462c9bbcc4e2864b7b762754d33ae04/lv.pak
+[Info: 2022-04-06 10:04:33.1861050: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:33.1861481: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/a2abec9b7bd611b5d50010dbc2bf332a5f90e9b9/ko.pak
+[Info: 2022-04-06 10:04:33.1862699: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/a2abec9b7bd611b5d50010dbc2bf332a5f90e9b9/ko.pak
+[Info: 2022-04-06 10:04:33.1863038: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/3c02937a28eb80817a2fe98ae0cbcb97c6d9c0fa/ml.pak
+[Info: 2022-04-06 10:04:33.6365937: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:33.6366324: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/9bdaa02d9648e96918ade3d1a73f244d71738d36/lt.pak
+[Info: 2022-04-06 10:04:33.6367742: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/9bdaa02d9648e96918ade3d1a73f244d71738d36/lt.pak
+[Info: 2022-04-06 10:04:33.6368420: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/da82a3018e2eec3af72e70844220eca07b68cd7a/mr.pak
+[Info: 2022-04-06 10:04:33.9754371: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:33.9754824: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/3c02937a28eb80817a2fe98ae0cbcb97c6d9c0fa/ml.pak
+[Info: 2022-04-06 10:04:33.9755939: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/3c02937a28eb80817a2fe98ae0cbcb97c6d9c0fa/ml.pak
+[Info: 2022-04-06 10:04:33.9756279: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/c8208e553bc02dc061986a7030a6975d7bb7e22c/ms.pak
+[Info: 2022-04-06 10:04:34.1100936: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:34.1101326: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/344e77dfc462c9bbcc4e2864b7b762754d33ae04/lv.pak
+[Info: 2022-04-06 10:04:34.1102466: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/344e77dfc462c9bbcc4e2864b7b762754d33ae04/lv.pak
+[Info: 2022-04-06 10:04:34.1103203: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/443ea0cc48d383a5de19290dcbd64752b3717cb8/nb.pak
+[Info: 2022-04-06 10:04:34.4512538: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:34.4512928: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/c8208e553bc02dc061986a7030a6975d7bb7e22c/ms.pak
+[Info: 2022-04-06 10:04:34.4514155: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/c8208e553bc02dc061986a7030a6975d7bb7e22c/ms.pak
+[Info: 2022-04-06 10:04:34.4514923: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/55dd17914e6cf3dda3ffa2f1a9b60165ec1b4e75/nl.pak
+[Info: 2022-04-06 10:04:34.6141971: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:34.6142363: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/da82a3018e2eec3af72e70844220eca07b68cd7a/mr.pak
+[Info: 2022-04-06 10:04:34.6143518: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/da82a3018e2eec3af72e70844220eca07b68cd7a/mr.pak
+[Info: 2022-04-06 10:04:34.6143927: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/f3ab4937b342afcc78b1c25fa3dd1e0c7417a251/pl.pak
+[Info: 2022-04-06 10:04:34.9953219: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:34.9953610: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/55dd17914e6cf3dda3ffa2f1a9b60165ec1b4e75/nl.pak
+[Info: 2022-04-06 10:04:34.9955022: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/55dd17914e6cf3dda3ffa2f1a9b60165ec1b4e75/nl.pak
+[Info: 2022-04-06 10:04:34.9955800: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/56ec3ab2cecc799b0a8d6e153a358647bf2a3c65/pt-BR.pak
+[Info: 2022-04-06 10:04:35.0380254: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:35.0380647: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/443ea0cc48d383a5de19290dcbd64752b3717cb8/nb.pak
+[Info: 2022-04-06 10:04:35.0382296: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/443ea0cc48d383a5de19290dcbd64752b3717cb8/nb.pak
+[Info: 2022-04-06 10:04:35.0383110: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/90cbea0074d451fd0aa2733919e3406c824eeace/pt-PT.pak
+[Info: 2022-04-06 10:04:35.2333481: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:35.2333871: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/f3ab4937b342afcc78b1c25fa3dd1e0c7417a251/pl.pak
+[Info: 2022-04-06 10:04:35.2334988: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/f3ab4937b342afcc78b1c25fa3dd1e0c7417a251/pl.pak
+[Info: 2022-04-06 10:04:35.2336014: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/ce06df5a2c727d82f3203f0cc58cb6f04388097b/ro.pak
+[Info: 2022-04-06 10:04:35.5685781: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:35.5686172: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/56ec3ab2cecc799b0a8d6e153a358647bf2a3c65/pt-BR.pak
+[Info: 2022-04-06 10:04:35.5687313: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/56ec3ab2cecc799b0a8d6e153a358647bf2a3c65/pt-BR.pak
+[Info: 2022-04-06 10:04:35.5687918: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/7aa979e81676cd10bdebc41e41b624308e817518/ru.pak
+[Info: 2022-04-06 10:04:35.7529678: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:35.7530074: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/ce06df5a2c727d82f3203f0cc58cb6f04388097b/ro.pak
+[Info: 2022-04-06 10:04:35.7531192: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/ce06df5a2c727d82f3203f0cc58cb6f04388097b/ro.pak
+[Info: 2022-04-06 10:04:35.7531522: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/9ec7a790bcc40955ad99e2eb5433df0446d7ede1/sk.pak
+[Info: 2022-04-06 10:04:36.0397804: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:36.0398091: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/90cbea0074d451fd0aa2733919e3406c824eeace/pt-PT.pak
+[Info: 2022-04-06 10:04:36.0399573: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/90cbea0074d451fd0aa2733919e3406c824eeace/pt-PT.pak
+[Info: 2022-04-06 10:04:36.0400006: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/443f666e49a640cd7471bebcbe31554ee82862ab/sl.pak
+[Info: 2022-04-06 10:04:36.3216489: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:36.3216927: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/7aa979e81676cd10bdebc41e41b624308e817518/ru.pak
+[Info: 2022-04-06 10:04:36.3218249: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/7aa979e81676cd10bdebc41e41b624308e817518/ru.pak
+[Info: 2022-04-06 10:04:36.3219584: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/7a76bf78b775d8b76064dac645f9c934a2b858b8/sr.pak
+[Info: 2022-04-06 10:04:36.3441299: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:36.3441701: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/9ec7a790bcc40955ad99e2eb5433df0446d7ede1/sk.pak
+[Info: 2022-04-06 10:04:36.3442895: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/9ec7a790bcc40955ad99e2eb5433df0446d7ede1/sk.pak
+[Info: 2022-04-06 10:04:36.3443646: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/a69195711c667a725d2fda507079652a71a11dcb/sv.pak
+[Info: 2022-04-06 10:04:36.8987009: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:36.8987510: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/443f666e49a640cd7471bebcbe31554ee82862ab/sl.pak
+[Info: 2022-04-06 10:04:36.8988722: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/443f666e49a640cd7471bebcbe31554ee82862ab/sl.pak
+[Info: 2022-04-06 10:04:36.8989136: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/aa6bcf891fa6d7ff7b735cfd442d7b591b9e5b66/sw.pak
+[Info: 2022-04-06 10:04:36.9267571: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:36.9267956: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/a69195711c667a725d2fda507079652a71a11dcb/sv.pak
+[Info: 2022-04-06 10:04:36.9269075: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/a69195711c667a725d2fda507079652a71a11dcb/sv.pak
+[Info: 2022-04-06 10:04:36.9269821: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/0a56ef3c9e4ab6f0f23c44bcc004be81f6ea0fcb/ta.pak
+[Info: 2022-04-06 10:04:36.9329361: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:36.9329794: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/7a76bf78b775d8b76064dac645f9c934a2b858b8/sr.pak
+[Info: 2022-04-06 10:04:36.9331845: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/7a76bf78b775d8b76064dac645f9c934a2b858b8/sr.pak
+[Info: 2022-04-06 10:04:36.9332675: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/9d7026459785031d08a521b3030fe19bfebf4000/te.pak
+[Info: 2022-04-06 10:04:37.5126794: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:37.5127195: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/0a56ef3c9e4ab6f0f23c44bcc004be81f6ea0fcb/ta.pak
+[Info: 2022-04-06 10:04:37.5128382: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/0a56ef3c9e4ab6f0f23c44bcc004be81f6ea0fcb/ta.pak
+[Info: 2022-04-06 10:04:37.5129337: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/1aab4a4f911a90c9a07287fd274193768baa3b7f/th.pak
+[Info: 2022-04-06 10:04:37.6208794: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:37.6209187: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/9d7026459785031d08a521b3030fe19bfebf4000/te.pak
+[Info: 2022-04-06 10:04:37.6210350: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/9d7026459785031d08a521b3030fe19bfebf4000/te.pak
+[Info: 2022-04-06 10:04:37.6210679: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/8adcf195927d183a72ae98a26e3cf8882b141954/tr.pak
+[Info: 2022-04-06 10:04:37.7418955: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:37.7419715: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/aa6bcf891fa6d7ff7b735cfd442d7b591b9e5b66/sw.pak
+[Info: 2022-04-06 10:04:37.7421099: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/aa6bcf891fa6d7ff7b735cfd442d7b591b9e5b66/sw.pak
+[Info: 2022-04-06 10:04:37.7421848: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/59a312ccc812555b30e44319f77856822e5b887b/uk.pak
+[Info: 2022-04-06 10:04:38.0680987: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:38.0681370: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/1aab4a4f911a90c9a07287fd274193768baa3b7f/th.pak
+[Info: 2022-04-06 10:04:38.0682481: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/1aab4a4f911a90c9a07287fd274193768baa3b7f/th.pak
+[Info: 2022-04-06 10:04:38.0683201: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/0ae479a666cb32fe326a1bc66e64d33c8a60574b/vi.pak
+[Info: 2022-04-06 10:04:38.2858569: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:38.2858963: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/8adcf195927d183a72ae98a26e3cf8882b141954/tr.pak
+[Info: 2022-04-06 10:04:38.2860103: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/8adcf195927d183a72ae98a26e3cf8882b141954/tr.pak
+[Info: 2022-04-06 10:04:38.2860880: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/4b41bca0d9266680584f70e7905f4cbc90bfccd5/zh-CN.pak
+[Info: 2022-04-06 10:04:38.6468944: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:38.6469332: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/0ae479a666cb32fe326a1bc66e64d33c8a60574b/vi.pak
+[Info: 2022-04-06 10:04:38.6470483: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/0ae479a666cb32fe326a1bc66e64d33c8a60574b/vi.pak
+[Info: 2022-04-06 10:04:38.6471213: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/2dcfe678890745ce238ff0f50bc5613d984a8655/zh-TW.pak
+[Info: 2022-04-06 10:04:38.6699328: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:38.6699726: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/59a312ccc812555b30e44319f77856822e5b887b/uk.pak
+[Info: 2022-04-06 10:04:38.6700864: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/59a312ccc812555b30e44319f77856822e5b887b/uk.pak
+[Info: 2022-04-06 10:04:38.6701189: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/b8b15f032512091af6a8573d8750184ae88839df/snapshot_blob.bin
+[Info: 2022-04-06 10:04:38.8243770: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:38.8244069: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/4b41bca0d9266680584f70e7905f4cbc90bfccd5/zh-CN.pak
+[Info: 2022-04-06 10:04:38.8245014: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/4b41bca0d9266680584f70e7905f4cbc90bfccd5/zh-CN.pak
+[Info: 2022-04-06 10:04:38.8245353: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/f3fbae56fc3fdbbc251a190f77abedb8bdae5f96/libEGL.dll
+[Info: 2022-04-06 10:04:39.1944135: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:39.1944524: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/2dcfe678890745ce238ff0f50bc5613d984a8655/zh-TW.pak
+[Info: 2022-04-06 10:04:39.1945862: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/2dcfe678890745ce238ff0f50bc5613d984a8655/zh-TW.pak
+[Info: 2022-04-06 10:04:39.1947202: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/65c1ed7ec647cab882d6903846d53ff6bf8387aa/libGLESv2.dll
+[Info: 2022-04-06 10:04:39.2666361: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:39.2666755: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/b8b15f032512091af6a8573d8750184ae88839df/snapshot_blob.bin
+[Info: 2022-04-06 10:04:39.2667889: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/b8b15f032512091af6a8573d8750184ae88839df/snapshot_blob.bin
+[Info: 2022-04-06 10:04:39.2668295: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/b36ec3c3b20a7a06ff282d696f12b51904b073a4/v8_context_snapshot.bin
+[Info: 2022-04-06 10:04:40.3436839: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:40.3437236: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/f3fbae56fc3fdbbc251a190f77abedb8bdae5f96/libEGL.dll
+[Info: 2022-04-06 10:04:40.3438399: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/f3fbae56fc3fdbbc251a190f77abedb8bdae5f96/libEGL.dll
+[Info: 2022-04-06 10:04:40.8968356: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:40.8968744: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/b36ec3c3b20a7a06ff282d696f12b51904b073a4/v8_context_snapshot.bin
+[Info: 2022-04-06 10:04:40.8970041: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/b36ec3c3b20a7a06ff282d696f12b51904b073a4/v8_context_snapshot.bin
+[Info: 2022-04-06 10:04:43.8437074: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:43.8437465: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/65c1ed7ec647cab882d6903846d53ff6bf8387aa/libGLESv2.dll
+[Info: 2022-04-06 10:04:43.8438625: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/65c1ed7ec647cab882d6903846d53ff6bf8387aa/libGLESv2.dll
+[Info: 2022-04-06 10:04:44.3586630: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:04:44.3587017: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/15ca8509e04a30a8e093f11cee9dcab94f07f4ec/icudtl.dat
+[Info: 2022-04-06 10:04:44.3588263: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/15ca8509e04a30a8e093f11cee9dcab94f07f4ec/icudtl.dat
+[Info: 2022-04-06 10:06:22.6362204: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:06:22.6362677: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/a3eef93b7931025da96e1250a0193ee3415d5b72/libcef.dll
+[Info: 2022-04-06 10:06:22.6363952: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/a3eef93b7931025da96e1250a0193ee3415d5b72/libcef.dll
+[Info: 2022-04-06 10:06:46.4552702: NetQueue.cpp(472)] NetQueue: Primary ip: 13.225.30.128, Host: launcher.mojang.com
+[Info: 2022-04-06 10:06:46.4553028: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/0ed6423e26978b7e4241c2bc6e1477994f1312d9/launcher.dll
+[Info: 2022-04-06 10:06:46.4554255: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/0ed6423e26978b7e4241c2bc6e1477994f1312d9/launcher.dll
+[Info: 2022-04-06 10:06:46.4558456: PistonUpdate.cpp(832)] Mkdir(C:\...\locales)
+[Info: 2022-04-06 10:06:46.4563192: PistonUpdate.cpp(832)] Mkdir(C:\...\swiftshader)
+[Info: 2022-04-06 10:06:46.4568658: PistonUpdate.cpp(853)] CopyFile(C:\...\d83068ff495c64283d3bb46544956ab05de6a448, C:\...\JavaCheck.jar)
+[Info: 2022-04-06 10:06:46.4660015: PistonUpdate.cpp(853)] CopyFile(C:\...\8f157cc1ab1c18bf47305543b149604797cd6587, C:\...\cef.pak)
+[Info: 2022-04-06 10:06:46.4683803: PistonUpdate.cpp(853)] CopyFile(C:\...\2da1b18943265f473f6b87b63132dbb2398ff487, C:\...\cef_100_percent.pak)
+[Info: 2022-04-06 10:06:46.4699830: PistonUpdate.cpp(853)] CopyFile(C:\...\1ad557cecf3d54a5fbe471ceab189d344fef347c, C:\...\cef_200_percent.pak)
+[Info: 2022-04-06 10:06:46.4715814: PistonUpdate.cpp(853)] CopyFile(C:\...\229367ac0be0a2da9d6338cba6f45c07f790140c, C:\...\cef_extensions.pak)
+[Info: 2022-04-06 10:06:46.4739500: PistonUpdate.cpp(878)] Decompress(C:\...\e6e37e19a04a55944bdfba6f9359bbe0ea8402fc, C:\...\chrome_elf.dll)
+[Info: 2022-04-06 10:06:46.4938431: PistonUpdate.cpp(878)] Decompress(C:\...\a000ac66ef525e08decc62f37bfb0dd031fd8790, C:\...\d3dcompiler_47.dll)
+[Info: 2022-04-06 10:06:46.5642149: PistonUpdate.cpp(878)] Decompress(C:\...\6bab2e77925515888808c1ef729c5bb1323100dd, C:\...\icudtl.dat)
+[Info: 2022-04-06 10:06:46.7596713: PistonUpdate.cpp(853)] CopyFile(C:\...\0ed6423e26978b7e4241c2bc6e1477994f1312d9, C:\...\launcher.dll)
+[Info: 2022-04-06 10:06:46.7983001: PistonUpdate.cpp(878)] Decompress(C:\...\fb5af43ba527f0b03f6e5db0dba870df7acecf77, C:\...\libEGL.dll)
+[Info: 2022-04-06 10:06:46.8069358: PistonUpdate.cpp(878)] Decompress(C:\...\cd3b444ec31e78c7bef960f91548de1e1f2ae487, C:\...\libGLESv2.dll)
+[Info: 2022-04-06 10:06:46.9387775: PistonUpdate.cpp(878)] Decompress(C:\...\a3d60c190e97fc3e45d2de6ef0abf31c13393ed1, C:\...\libcef.dll)
+[Info: 2022-04-06 10:06:49.2006155: PistonUpdate.cpp(878)] Decompress(C:\...\91b918c8d9c842535c006cad51fef1f7a4df3df4, C:\...\am.pak)
+[Info: 2022-04-06 10:06:49.2058871: PistonUpdate.cpp(878)] Decompress(C:\...\b7cb43366c3afc11eeca9e25b7577bb91fa84ee9, C:\...\ar.pak)
+[Info: 2022-04-06 10:06:49.2110269: PistonUpdate.cpp(878)] Decompress(C:\...\a29dee681aac5a851bcec0edc8f859aadd37e8eb, C:\...\bg.pak)
+[Info: 2022-04-06 10:06:49.2161703: PistonUpdate.cpp(878)] Decompress(C:\...\a61f5ce476f65c9d9a8c0bfcee73a4555568140b, C:\...\bn.pak)
+[Info: 2022-04-06 10:06:49.2216261: PistonUpdate.cpp(878)] Decompress(C:\...\0ee3d65026be39be442967545df4c1c95490040b, C:\...\ca.pak)
+[Info: 2022-04-06 10:06:49.2261905: PistonUpdate.cpp(878)] Decompress(C:\...\5f0781c07f41bf591b6af843e0195510666ccb7a, C:\...\cs.pak)
+[Info: 2022-04-06 10:06:49.2310546: PistonUpdate.cpp(878)] Decompress(C:\...\35a30ef5ad3f9dd412d6a161e187a27b097e6dbd, C:\...\da.pak)
+[Info: 2022-04-06 10:06:49.2356724: PistonUpdate.cpp(878)] Decompress(C:\...\4b7c0aadbea7408dc6b88722ac1c9e02cc94cb97, C:\...\de.pak)
+[Info: 2022-04-06 10:06:49.2403301: PistonUpdate.cpp(878)] Decompress(C:\...\82018633a3a2bfcfd4afa8e74e4530bc57035748, C:\...\el.pak)
+[Info: 2022-04-06 10:06:49.2456140: PistonUpdate.cpp(878)] Decompress(C:\...\d0efd685c081a591ae86599b2688ecb7a5ff2c17, C:\...\en-GB.pak)
+[Info: 2022-04-06 10:06:49.2500718: PistonUpdate.cpp(878)] Decompress(C:\...\82212a642c90b51b8f67e517ee8782da841b658f, C:\...\en-US.pak)
+[Info: 2022-04-06 10:06:49.2541092: PistonUpdate.cpp(878)] Decompress(C:\...\39d5477aad201ab6d305fe1a466f9692646033a1, C:\...\es-419.pak)
+[Info: 2022-04-06 10:06:49.2591243: PistonUpdate.cpp(878)] Decompress(C:\...\2a0014e819249bc202b34a80d1c04496c83d924d, C:\...\es.pak)
+[Info: 2022-04-06 10:06:49.2639115: PistonUpdate.cpp(878)] Decompress(C:\...\225d5eee935c42f2668686ed8c6cf9d81686ed65, C:\...\et.pak)
+[Info: 2022-04-06 10:06:49.2682825: PistonUpdate.cpp(878)] Decompress(C:\...\d90c04e54c127a98b1f4e9e1061786162e5f6946, C:\...\fa.pak)
+[Info: 2022-04-06 10:06:49.2735199: PistonUpdate.cpp(878)] Decompress(C:\...\81bb7dbd212fbc760162b96da229b39516d1e25f, C:\...\fi.pak)
+[Info: 2022-04-06 10:06:49.2781704: PistonUpdate.cpp(878)] Decompress(C:\...\70c132726600a4c640c627d36fb01d8fa2c499f4, C:\...\fil.pak)
+[Info: 2022-04-06 10:06:49.2830235: PistonUpdate.cpp(878)] Decompress(C:\...\e22a9a3f57204407ad3eacab0f320aba92b79a5b, C:\...\fr.pak)
+[Info: 2022-04-06 10:06:49.2878583: PistonUpdate.cpp(878)] Decompress(C:\...\ea5af8ca67d502e1cb856b6ed02ecc0bf6ae525b, C:\...\gu.pak)
+[Info: 2022-04-06 10:06:49.2929705: PistonUpdate.cpp(878)] Decompress(C:\...\ae27c24da778e08e773330111f76fca5c583ad02, C:\...\he.pak)
+[Info: 2022-04-06 10:06:49.2977465: PistonUpdate.cpp(878)] Decompress(C:\...\133dea57961ab17f1fe4b7175236d02168c2de8d, C:\...\hi.pak)
+[Info: 2022-04-06 10:06:49.3033976: PistonUpdate.cpp(878)] Decompress(C:\...\86bbeaaebf238f1a1a57fac33ff6d8cbeb3e086e, C:\...\hr.pak)
+[Info: 2022-04-06 10:06:49.3097287: PistonUpdate.cpp(878)] Decompress(C:\...\e7691035840804d7cc3c895855af209860a6e246, C:\...\hu.pak)
+[Info: 2022-04-06 10:06:49.3152297: PistonUpdate.cpp(878)] Decompress(C:\...\8268ca0dec094d655b38cc0a7595fc7404ca6f75, C:\...\id.pak)
+[Info: 2022-04-06 10:06:49.3199910: PistonUpdate.cpp(878)] Decompress(C:\...\6f0db2ff20097e53c4cf83a97aeb30fd97cf38e8, C:\...\it.pak)
+[Info: 2022-04-06 10:06:49.3247117: PistonUpdate.cpp(878)] Decompress(C:\...\aa3761667ae5fd0d0e69e81354f541e4c0ca9ea6, C:\...\ja.pak)
+[Info: 2022-04-06 10:06:49.3293586: PistonUpdate.cpp(878)] Decompress(C:\...\e4f6a5221ef853e4480c317bb8a0ca18e7311d05, C:\...\kn.pak)
+[Info: 2022-04-06 10:06:49.3349830: PistonUpdate.cpp(878)] Decompress(C:\...\72840023c8dca628d53917187aba524ae06b3805, C:\...\ko.pak)
+[Info: 2022-04-06 10:06:49.3393798: PistonUpdate.cpp(878)] Decompress(C:\...\699bdd5995428b3b206342dc876ebe95739ee555, C:\...\lt.pak)
+[Info: 2022-04-06 10:06:49.3442115: PistonUpdate.cpp(878)] Decompress(C:\...\d7a3568eb32b16eb43fdc27d875acd2ee20b5d24, C:\...\lv.pak)
+[Info: 2022-04-06 10:06:49.3491474: PistonUpdate.cpp(878)] Decompress(C:\...\aec480c5f357d7ac74b4f2081b37e3bd97cda481, C:\...\ml.pak)
+[Info: 2022-04-06 10:06:49.3548321: PistonUpdate.cpp(878)] Decompress(C:\...\cf9d8f5aae61156092239c4d85c3352f0e055c56, C:\...\mr.pak)
+[Info: 2022-04-06 10:06:49.3600373: PistonUpdate.cpp(878)] Decompress(C:\...\0b57d80ff583aa4921271eaad4c0d71c6094a119, C:\...\ms.pak)
+[Info: 2022-04-06 10:06:49.3642366: PistonUpdate.cpp(878)] Decompress(C:\...\89cf4738188153de01b6994b55e6f4754a1ca7b7, C:\...\nb.pak)
+[Info: 2022-04-06 10:06:49.3689010: PistonUpdate.cpp(878)] Decompress(C:\...\3bed7d65fbb7141ced43b9a4e143190da3c61ca4, C:\...\nl.pak)
+[Info: 2022-04-06 10:06:49.3733973: PistonUpdate.cpp(878)] Decompress(C:\...\71ba95167ed6777eea6863fd4555c550f56f57a4, C:\...\pl.pak)
+[Info: 2022-04-06 10:06:49.3782906: PistonUpdate.cpp(878)] Decompress(C:\...\f8144e74ef3f128e08730f5d4e926914d81e817e, C:\...\pt-BR.pak)
+[Info: 2022-04-06 10:06:49.3831943: PistonUpdate.cpp(878)] Decompress(C:\...\d2f9b4f5c5ade7eb54838acb4bda5fa0e4bdf3c0, C:\...\pt-PT.pak)
+[Info: 2022-04-06 10:06:49.3877490: PistonUpdate.cpp(878)] Decompress(C:\...\a9b321d3a1ac30e003baca2e4fb5c984137b17bb, C:\...\ro.pak)
+[Info: 2022-04-06 10:06:49.3925022: PistonUpdate.cpp(878)] Decompress(C:\...\70c39df950c6a0c2db5396bb9bc8070abf98ac03, C:\...\ru.pak)
+[Info: 2022-04-06 10:06:49.3978077: PistonUpdate.cpp(878)] Decompress(C:\...\cbd4990b3b6dc6f1f168a8d710980fbf19e49222, C:\...\sk.pak)
+[Info: 2022-04-06 10:06:49.4031851: PistonUpdate.cpp(878)] Decompress(C:\...\f8bef9d34dacfc34c5a8772570d31d27a19869d0, C:\...\sl.pak)
+[Info: 2022-04-06 10:06:49.4084360: PistonUpdate.cpp(878)] Decompress(C:\...\f138a577c7d1d681d22e3c001fa4731c667f14b8, C:\...\sr.pak)
+[Info: 2022-04-06 10:06:49.4133836: PistonUpdate.cpp(878)] Decompress(C:\...\9142c943f1a2dacd0726bb7487f4ec9edc01f4ca, C:\...\sv.pak)
+[Info: 2022-04-06 10:06:49.4177546: PistonUpdate.cpp(878)] Decompress(C:\...\8b3db01ebfd19f8775f6ed114973350ff1814c0a, C:\...\sw.pak)
+[Info: 2022-04-06 10:06:49.4223137: PistonUpdate.cpp(878)] Decompress(C:\...\18cd81acf8d9ccab5b281c9eb02e06d3091a164c, C:\...\ta.pak)
+[Info: 2022-04-06 10:06:49.4275621: PistonUpdate.cpp(878)] Decompress(C:\...\143a27f67341827f8b32458f3c18ecd604093657, C:\...\te.pak)
+[Info: 2022-04-06 10:06:49.4328521: PistonUpdate.cpp(878)] Decompress(C:\...\d78aa25633b015464855f60523fe85060959a939, C:\...\th.pak)
+[Info: 2022-04-06 10:06:49.4377982: PistonUpdate.cpp(878)] Decompress(C:\...\ad7b39ac558124d7a5f73a83ca0e5e1cc4739425, C:\...\tr.pak)
+[Info: 2022-04-06 10:06:49.4421717: PistonUpdate.cpp(878)] Decompress(C:\...\7264e679520e3981a2bf39d7c9eb0085c327a920, C:\...\uk.pak)
+[Info: 2022-04-06 10:06:49.4474357: PistonUpdate.cpp(878)] Decompress(C:\...\51cadecb9bcd8fe22afead0a5fc5cecb52c30cad, C:\...\vi.pak)
+[Info: 2022-04-06 10:06:49.4519218: PistonUpdate.cpp(878)] Decompress(C:\...\72becbad361e228a8a164b01d1541ccbf7e28eaf, C:\...\zh-CN.pak)
+[Info: 2022-04-06 10:06:49.4564439: PistonUpdate.cpp(878)] Decompress(C:\...\df8ffb51826d76f8e4e11fa8555e0ffb2282a3be, C:\...\zh-TW.pak)
+[Info: 2022-04-06 10:06:49.4609129: PistonUpdate.cpp(853)] CopyFile(C:\...\b8b15f032512091af6a8573d8750184ae88839df, C:\...\snapshot_blob.bin)
+[Info: 2022-04-06 10:06:49.4629827: PistonUpdate.cpp(878)] Decompress(C:\...\1231c5b199ba2bc48cbafdbef813cdbd5dc3c42d, C:\...\libEGL.dll)
+[Info: 2022-04-06 10:06:49.4725549: PistonUpdate.cpp(878)] Decompress(C:\...\cbf51552d14ae32f4651d1770ece1dc9ba3e1d8e, C:\...\libGLESv2.dll)
+[Info: 2022-04-06 10:06:49.5240030: PistonUpdate.cpp(853)] CopyFile(C:\...\b36ec3c3b20a7a06ff282d696f12b51904b073a4, C:\...\v8_context_snapshot.bin)
+[Info: 2022-04-06 10:06:49.5504086: UpdatePistonComponent.cpp(72)] Piston update succeeded, writing version file to: C:\...\.version !
+[Info: 2022-04-06 10:06:49.5506672: StartLibrary.cpp(61)] Starting C:\...\launcher.dll
+[Info: 2022-04-06 10:06:52.3883704: StartLibrary.cpp(95)] Running launcher!
+[Info: 2022-04-06 10:06:52.3883992: StartLibrary.cpp(97)] Logging is open, passing it to Launcher Core.
+[Info: 2022-04-06 10:06:52.3894804: LauncherMain.cpp(107)] Initiated models
+[Info: 2022-04-06 10:06:52.3915254: LauncherMain.cpp(290)] Initiated app arguments
+[Info: 2022-04-06 10:06:52.3915562: LauncherMain.cpp(351)] Initiated directories
+[Info: 2022-04-06 10:06:52.3916162: LauncherMain.cpp(372)] Initialized network
+[Info: 2022-04-06 10:06:52.3916366: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2022-04-06 10:06:52.3918393: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2022-04-06 10:06:52.3919963: LauncherMain.cpp(393)] Initialized Sentry
+[Info: 2022-04-06 10:06:52.3920316: LauncherMain.cpp(399)] workDir: %USERPROFILE%\Desktop\PortableMC\data\.minecraft
+[Info: 2022-04-06 10:06:52.3920594: LauncherMain.cpp(407)] appDir: %USERPROFILE%\Desktop\PortableMC\bin
+[Info: 2022-04-06 10:06:52.3922196: SystemUtils_Windows.cpp(246)] No client id found or forcing regeneration. Regenerating...
+[Info: 2022-04-06 10:06:52.3927637: LauncherMain.cpp(433)] Launcher core version: 2.2.12145 (1dc901ed00d6ddf76b4d3745df62255de67bba5c)
+[Info: 2022-04-06 10:06:52.3927861: LauncherMain.cpp(434)] Main process: true
+[Info: 2022-04-06 10:06:52.3928346: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2022-04-06 10:06:52.3929735: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2022-04-06 10:06:52.3935923: CoreFileUtils.cpp(12)] File %USERPROFILE%\Desktop\PortableMC\data\.minecraft\treatment_tags.json doesn't exist. Not loading.
+[Info: 2022-04-06 10:06:52.3936344: TreatmentTags.cpp(43)] Unable to load treatment tags. Clearing current tags...
+[Info: 2022-04-06 10:06:52.3960031: NetQueue.cpp(632)] NetQueue: Starting net action https://www.xboxab.com/ab
+[Info: 2022-04-06 10:06:52.3960261: LauncherController.cpp(456)] Constructing launcher controller with workDir: %USERPROFILE%\Desktop\PortableMC\data\.minecraft, isActive: 1
+[Info: 2022-04-06 10:06:52.3985098: SecureTokenStorage_Windows.cpp(105)] Initing windows secure storage
+[Info: 2022-04-06 10:06:52.3987177: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2022-04-06 10:06:52.3989338: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2022-04-06 10:06:52.3991580: Xal.lib(0)] XAL: Initializing Xal 2021.04.20210518.001, Win32 platform
+[Info: 2022-04-06 10:06:52.3992042: Xal.lib(0)] XAL: Init args:
+[Info: 2022-04-06 10:06:52.3992364: Xal.lib(0)] XAL:     sandbox: 
+[Info: 2022-04-06 10:06:52.3992501: Xal.lib(0)] XAL:     disableDiagnosticTelemetry: false
+[Info: 2022-04-06 10:06:52.3992635: Xal.lib(0)] XAL:     correlationVector: (null)
+[Info: 2022-04-06 10:06:52.3992771: Xal.lib(0)] XAL:     flags: 91000000
+[Info: 2022-04-06 10:06:52.3992965: Xal.lib(0)] XAL:     thirdPartyConsent (0)
+[Info: 2022-04-06 10:06:52.3993114: Xal.lib(0)] XAL:     redirectUri: 
+[Warning: 2022-04-06 10:06:52.3993886: Xal.lib(0)] XAL: Expected REG_SZ type for SOFTWARE\Microsoft\XboxLive\Sandbox, found 0 instead
+[Info: 2022-04-06 10:06:52.4013369: Xal.lib(0)] XAL: Diagnostic telemetry disabled: false
+[Info: 2022-04-06 10:06:52.4016751: Xal.lib(0)] XAL: [op 19443104] Operation UploadTelemetryEventsWithDelay is starting
+[Info: 2022-04-06 10:06:52.4017007: Xal.lib(0)] XAL_TELEMETRY: AppActivation Version="2021.04.20210518.001"
+[Info: 2022-04-06 10:06:52.4018042: Xal.lib(0)] XAL: [op 18851360] Operation InitializeComponents is starting
+[Info: 2022-04-06 10:06:52.4018255: Xal.lib(0)] XAL: [op 18851360]     with CV 'pmGrxxpTg4DcA9zI.0.0'
+[Info: 2022-04-06 10:06:52.4019047: Xal.lib(0)] XAL: [op 94018048] Operation InitializeTokenStack is starting
+[Info: 2022-04-06 10:06:52.4019234: Xal.lib(0)] XAL: [op 94018048]     with CV 'pmGrxxpTg4DcA9zI.0.0'
+[Info: 2022-04-06 10:06:52.4019961: Xal.lib(0)] XAL: [op 93818016] Operation LoadClockSkew is starting
+[Info: 2022-04-06 10:06:52.4020122: Xal.lib(0)] XAL: [op 93818016]     with CV 'pmGrxxpTg4DcA9zI.0.0'
+[Info: 2022-04-06 10:06:52.4020372: Xal.lib(0)] XAL: [op 19555632] Client operation StorageReadPlatformOperation starting
+[Info: 2022-04-06 10:06:52.4022891: CoreFileUtils.cpp(12)] File %USERPROFILE%\Desktop\PortableMC\data\.minecraft\launcher_profiles.json doesn't exist. Not loading.
+[Info: 2022-04-06 10:06:52.4027499: PreferencesManager.cpp(116)] Removed %USERPROFILE%\Desktop\PortableMC\data\.minecraft\launcher_profiles_microsoft_store.json
+[Info: 2022-04-06 10:06:52.4028103: CoreFileUtils.cpp(12)] File %USERPROFILE%\Desktop\PortableMC\data\.minecraft\launcher_accounts.json doesn't exist. Not loading.
+[Warning: 2022-04-06 10:06:52.4111928: XalApi.cpp(180)] Failed to register user callback: -2147024846
+[Info: 2022-04-06 10:06:52.4113398: GameVersionManager.cpp(263)] Couldn't read local cache of the Mojang versions manifest: generic:2
+[Error: 2022-04-06 10:06:52.4113877: GameVersionManager.cpp(300)] Can't read directory %USERPROFILE%\Desktop\PortableMC\data\.minecraft\versions: Le chemin d’accès spécifié est introuvable.
+[Info: 2022-04-06 10:06:52.4117703: NetQueue.cpp(632)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2022-04-06 10:06:52.4142557: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2022-04-06T10:06:52Z
+[Info: 2022-04-06 10:06:52.5229407: Xal.lib(0)] XAL: [op 19555632] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2022-04-06 10:06:52.5230187: Xal.lib(0)] XAL: [op 19555632] Added operation as handle 012A659C with type 6B26EE04
+[Info: 2022-04-06 10:06:52.5230501: XalStorage.cpp(264)] [op 012A659C] Xal Read callback - Started
+[Info: 2022-04-06 10:06:52.5230931: XalStorage.cpp(344)] [op 012A659C] Xal Read callback - Failed
+[Info: 2022-04-06 10:06:52.5233104: Xal.lib(0)] XAL: [op 19555632] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2022-04-06 10:06:52.5233402: Xal.lib(0)] XAL: [op 19555632] Cleared operation handle 012A659C
+[Info: 2022-04-06 10:06:52.5233725: Xal.lib(0)] XAL: [op 19555632] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2022-04-06 10:06:52.6094011: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.5.91, Host: www.xboxab.com
+[Info: 2022-04-06 10:06:52.6094479: NetQueue.cpp(551)] NetQueue: Action finished: https://www.xboxab.com/ab
+[Error: 2022-04-06 10:06:52.6094999: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.AssignmentContext: Unknown key
+[Error: 2022-04-06 10:06:52.6095206: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.Configs: Unknown key
+[Error: 2022-04-06 10:06:52.6095363: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.FlightingVersion: Unknown key
+[Error: 2022-04-06 10:06:52.6095537: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.Flights: Unknown key
+[Error: 2022-04-06 10:06:52.6095700: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.ImpressionId: Unknown key
+[Error: 2022-04-06 10:06:52.6095852: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.ParameterGroups: Unknown key
+[Info: 2022-04-06 10:06:52.6103775: NetQueue.cpp(579)] NetQueue: Action finalized: https://www.xboxab.com/ab
+[Info: 2022-04-06 10:06:52.6476042: Xal.lib(0)] XAL: [op 19555632] Client operation StorageReadPlatformOperation continuing
+[Warning: 2022-04-06 10:06:52.6477108: Xal.lib(0)] XAL: Clock skew failed to be read: 0x89235107 "Client operation failed"
+[Warning: 2022-04-06 10:06:52.6478086: Xal.lib(0)] XAL: [op 93818016] Operation LoadClockSkew failed with result: 0x89235107 - Client operation failed
+[Info: 2022-04-06 10:06:52.6481413: Xal.lib(0)] XAL: [op 93680832] Operation LoadDeviceIdentity is starting
+[Info: 2022-04-06 10:06:52.6481753: Xal.lib(0)] XAL: [op 93680832]     with CV 'pmGrxxpTg4DcA9zI.0.0'
+[Info: 2022-04-06 10:06:52.6482065: Xal.lib(0)] XAL: [op 19221936] Client operation StorageReadPlatformOperation starting
+[Info: 2022-04-06 10:06:52.6482426: Xal.lib(0)] XAL: [op 19555632] Client operation StorageReadPlatformOperation destroyed
+[Info: 2022-04-06 10:06:52.6482787: Xal.lib(0)] XAL: [op 19221936] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2022-04-06 10:06:52.6483072: Xal.lib(0)] XAL: [op 19221936] Added operation as handle 01254E1C with type 6B26EE04
+[Info: 2022-04-06 10:06:52.6483271: XalStorage.cpp(264)] [op 01254E1C] Xal Read callback - Started
+[Info: 2022-04-06 10:06:52.6483542: XalStorage.cpp(344)] [op 01254E1C] Xal Read callback - Failed
+[Info: 2022-04-06 10:06:52.6485396: Xal.lib(0)] XAL: [op 19221936] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2022-04-06 10:06:52.6485666: Xal.lib(0)] XAL: [op 19221936] Cleared operation handle 01254E1C
+[Info: 2022-04-06 10:06:52.6485934: Xal.lib(0)] XAL: [op 19221936] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2022-04-06 10:06:52.7702610: Xal.lib(0)] XAL: [op 19221936] Client operation StorageReadPlatformOperation continuing
+[Info: 2022-04-06 10:06:52.7712346: Xal.lib(0)] XAL: [op 19221232] Client operation StorageWritePlatformOperation starting
+[Info: 2022-04-06 10:06:52.7712938: Xal.lib(0)] XAL: [op 19221936] Client operation StorageReadPlatformOperation destroyed
+[Info: 2022-04-06 10:06:52.7713177: Xal.lib(0)] XAL: [op 19221232] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2022-04-06 10:06:52.7713344: Xal.lib(0)] XAL: [op 19221232] Added operation as handle 01254B5C with type 6B26EDFC
+[Info: 2022-04-06 10:06:52.7713460: XalStorage.cpp(205)] [op 01254B5C] Xal Write callback - Started
+[Info: 2022-04-06 10:06:52.7715390: Xal.lib(0)] XAL: [op 19221232] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2022-04-06 10:06:52.7715568: Xal.lib(0)] XAL: [op 19221232] Cleared operation handle 01254B5C
+[Info: 2022-04-06 10:06:52.7715732: Xal.lib(0)] XAL: [op 19221232] Client operation StorageWritePlatformOperation succeeded
+[Info: 2022-04-06 10:06:52.7716369: XalStorage.cpp(258)] [op 01254B5C] Xal Write callback - Succeeded
+[Info: 2022-04-06 10:06:52.8687253: NetQueue.cpp(472)] NetQueue: Primary ip: 52.222.192.16, Host: launchermeta.mojang.com
+[Info: 2022-04-06 10:06:52.8687642: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2022-04-06T10:06:52Z
+[Info: 2022-04-06 10:06:52.8687804: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2022-04-06T10:06:52Z
+[Info: 2022-04-06 10:06:52.8688531: GameVersionManager.cpp(432)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2022-04-06T10:06:52Z
+[Info: 2022-04-06 10:06:52.8768919: GameVersionManager.cpp(513)] Request version details for: 1.18.2
+[Info: 2022-04-06 10:06:52.8771286: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/86f9645f8398ec902cd17769058851e6fead68cf/1.18.2.json
+[Info: 2022-04-06 10:06:52.8943406: Xal.lib(0)] XAL: [op 19221232] Client operation StorageWritePlatformOperation continuing
+[Info: 2022-04-06 10:06:52.8943935: Xal.lib(0)] XAL: [op 93680832] Operation LoadDeviceIdentity succeeded.
+[Info: 2022-04-06 10:06:52.8947098: Xal.lib(0)] XAL: [op 93817120] Operation NsalDb_LoadDefaultNsal is starting
+[Info: 2022-04-06 10:06:52.8947450: Xal.lib(0)] XAL: [op 93817120]     with CV 'pmGrxxpTg4DcA9zI.0.0'
+[Info: 2022-04-06 10:06:52.8948569: Xal.lib(0)] XAL: [op 19221232] Client operation StorageWritePlatformOperation destroyed
+[Info: 2022-04-06 10:06:52.8949827: NetQueue.cpp(632)] NetQueue: Starting net action title.mgt.xboxlive.com
+[Info: 2022-04-06 10:06:52.9636938: NetQueue.cpp(472)] NetQueue: Primary ip: 52.222.192.16, Host: launchermeta.mojang.com
+[Info: 2022-04-06 10:06:52.9637414: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/86f9645f8398ec902cd17769058851e6fead68cf/1.18.2.json
+[Info: 2022-04-06 10:06:52.9637588: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/packages/86f9645f8398ec902cd17769058851e6fead68cf/1.18.2.json
+[Info: 2022-04-06 10:06:52.9638434: GameVersionManager.cpp(560)] Got game version 1.18.2 manifest from https://launchermeta.mojang.com/v1/packages/86f9645f8398ec902cd17769058851e6fead68cf/1.18.2.json
+[Info: 2022-04-06 10:06:52.9659730: GameVersionManager.cpp(513)] Request version details for: 22w13a
+[Info: 2022-04-06 10:06:52.9660970: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/5f73acb0bfadc51f9535464c6f03b84c358d2b9b/22w13a.json
+[Info: 2022-04-06 10:06:53.0479178: NetQueue.cpp(472)] NetQueue: Primary ip: 52.222.192.16, Host: launchermeta.mojang.com
+[Info: 2022-04-06 10:06:53.0479579: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/5f73acb0bfadc51f9535464c6f03b84c358d2b9b/22w13a.json
+[Info: 2022-04-06 10:06:53.0479753: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/packages/5f73acb0bfadc51f9535464c6f03b84c358d2b9b/22w13a.json
+[Info: 2022-04-06 10:06:53.0480563: GameVersionManager.cpp(560)] Got game version 22w13a manifest from https://launchermeta.mojang.com/v1/packages/5f73acb0bfadc51f9535464c6f03b84c358d2b9b/22w13a.json
+[Info: 2022-04-06 10:06:53.0504514: SkinManager.cpp(251)] Failed to read skins file: %USERPROFILE%\Desktop\PortableMC\data\.minecraft\launcher_skins.json Errno such file or directory
+[Info: 2022-04-06 10:06:53.0507424: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2022-04-06 10:06:53.0516332: CefUI.cpp(145)] Web cache path: %USERPROFILE%\Desktop\PortableMC\data\.minecraft\webcache2
+[Info: 2022-04-06 10:06:53.0765742: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "C:\Users\lesta\Desktop\PortableMC\bin\Minecraft.exe" --type=gpu-process --field-trial-handle=2188,11584302049128795658,4211224788800941631,131072 --enable-features=CastMediaRouteProvider --no-sandbox --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --log-severity=info --lang=en-US --launcherui --workdir="C:\Users\lesta\Desktop\PortableMC\data\.minecraft" /prefetch:2
+[Info: 2022-04-06 10:06:53.0911512: LauncherAppBrowser.cpp(64)] Work dir is %USERPROFILE%\Desktop\PortableMC\data\.minecraft
+[Info: 2022-04-06 10:06:53.0915238: main_context.cpp(135)] CEF initialized successfully.
+[Info: 2022-04-06 10:06:53.0916048: main_context.cpp(137)] CEF version: 85.3.13+gcd6cbe0+chromium-85.0.4183.121
+[Info: 2022-04-06 10:06:53.1275615: root_window_manager.cpp(86)] Main window has been opened: 057BE018
+[Info: 2022-04-06 10:06:53.1306925: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "C:\Users\lesta\Desktop\PortableMC\bin\Minecraft.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2188,11584302049128795658,4211224788800941631,131072 --enable-features=CastMediaRouteProvider --lang=en-US --service-sandbox-type=network --no-sandbox --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --log-severity=info --lang=en-US --launcherui --workdir="C:\Users\lesta\Desktop\PortableMC\data\.minecraft" /prefetch:8
+[Info: 2022-04-06 10:06:53.1396317: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "C:\Users\lesta\Desktop\PortableMC\bin\Minecraft.exe" --type=renderer --no-sandbox --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --field-trial-handle=2188,11584302049128795658,4211224788800941631,131072 --enable-features=CastMediaRouteProvider --lang=en-US --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --log-severity=info --launcherui --workdir="C:\Users\lesta\Desktop\PortableMC\data\.minecraft" /prefetch:1
+[Info: 2022-04-06 10:06:53.1399771: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "C:\Users\lesta\Desktop\PortableMC\bin\Minecraft.exe" --type=renderer --no-sandbox --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --field-trial-handle=2188,11584302049128795658,4211224788800941631,131072 --enable-features=CastMediaRouteProvider --lang=en-US --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --log-severity=info --launcherui --workdir="C:\Users\lesta\Desktop\PortableMC\data\.minecraft" /prefetch:1
+[Info: 2022-04-06 10:06:53.2535104: NetQueue.cpp(472)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2022-04-06 10:06:53.2535559: NetQueue.cpp(551)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Info: 2022-04-06 10:06:53.2535918: SentryAPI.cpp(120)] Rate limiting activated (429). Instructed to back off for 7 seconds.
+[Info: 2022-04-06 10:06:53.2536194: NetQueue.cpp(574)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2022-04-06 10:06:53.2641242: NetQueue.cpp(472)] NetQueue: Primary ip: 2606:2800:233:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2022-04-06 10:06:53.2641637: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2022-04-06 10:06:53.2641829: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2022-04-06 10:06:53.2643735: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/9ed39b59e404c5e1e0570fe6f20a17addf3b9749/manifest.json
+[Info: 2022-04-06 10:06:53.3112907: NetQueue.cpp(472)] NetQueue: Primary ip: 2606:2800:233:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2022-04-06 10:06:53.3113237: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/9ed39b59e404c5e1e0570fe6f20a17addf3b9749/manifest.json
+[Info: 2022-04-06 10:06:53.3113406: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/9ed39b59e404c5e1e0570fe6f20a17addf3b9749/manifest.json
+[Info: 2022-04-06 10:06:53.3332642: LauncherMain.cpp(107)] Initiated models
+[Info: 2022-04-06 10:06:53.3341336: LauncherController.cpp(456)] Constructing launcher controller with workDir: C:\...\.minecraft, isActive: 0
+[Info: 2022-04-06 10:06:53.3510616: LauncherAppRenderer.cpp(172)] Javascript bridge extended in OnWebKitInitialized.
+[Info: 2022-04-06 10:06:53.3700895: LauncherAppRenderer.cpp(314)] OnContextCreated: main frame. Url=mojang://launcher/index.html browser id=1
+[Info: 2022-04-06 10:06:53.3701324: LauncherAppRenderer.cpp(319)] OnContextCreated: Create JS bindings in main browser.
+[Info: 2022-04-06 10:06:53.3724326: LauncherAppRenderer.cpp(499)] Javascript bridge extended in OnContextCreated.
+[Info: 2022-04-06 10:06:53.3765326: NetQueue.cpp(472)] NetQueue: Primary ip: 2620:1ec:22::15, Host: title.mgt.xboxlive.com
+[Info: 2022-04-06 10:06:53.3765556: NetQueue.cpp(551)] NetQueue: Action finished: title.mgt.xboxlive.com
+[Info: 2022-04-06 10:06:53.3766092: NetQueue.cpp(579)] NetQueue: Action finalized: title.mgt.xboxlive.com
+[Info: 2022-04-06 10:06:53.3956401: Xal.lib(0)] XAL: [op 93817120] Operation NsalDb_LoadDefaultNsal succeeded.
+[Info: 2022-04-06 10:06:53.3959355: Xal.lib(0)] XAL: [op 251274384] Operation GetDtoken is starting
+[Info: 2022-04-06 10:06:53.3959682: Xal.lib(0)] XAL: [op 251274384]     with CV 'pmGrxxpTg4DcA9zI.0.1'
+[Info: 2022-04-06 10:06:53.3960089: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (00003172C1FD1B18)
+[Info: 2022-04-06 10:06:53.3960381: Xal.lib(0)] XAL: Failed to find requested token in cache: [identityType:1, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]
+[Info: 2022-04-06 10:06:53.3960733: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (00003172C1FD1B18)
+[Info: 2022-04-06 10:06:53.3962881: Xal.lib(0)] XAL: [op 90566272] Operation RefreshDtoken is starting
+[Info: 2022-04-06 10:06:53.3963167: Xal.lib(0)] XAL: [op 90566272]     with CV 'pmGrxxpTg4DcA9zI.0.1'
+[Info: 2022-04-06 10:06:53.3963494: Xal.lib(0)] XAL: [op 90566272] RefreshDtoken token fetch started.
+[Info: 2022-04-06 10:06:53.3982744: NetQueue.cpp(632)] NetQueue: Starting net action device.auth.xboxlive.com
+[Info: 2022-04-06 10:06:53.5338040: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2022-04-06 10:06:53.5602396: NetQueue.cpp(472)] NetQueue: Primary ip: 2606:2800:233:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2022-04-06 10:06:53.5602847: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2022-04-06 10:06:53.5603347: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2022-04-06 10:06:53.5606006: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/9ed39b59e404c5e1e0570fe6f20a17addf3b9749/manifest.json
+[Info: 2022-04-06 10:06:53.6127752: NetQueue.cpp(472)] NetQueue: Primary ip: 2606:2800:233:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2022-04-06 10:06:53.6128103: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/9ed39b59e404c5e1e0570fe6f20a17addf3b9749/manifest.json
+[Info: 2022-04-06 10:06:53.6128308: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/9ed39b59e404c5e1e0570fe6f20a17addf3b9749/manifest.json
+[Info: 2022-04-06 10:06:53.8322034: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2022-04-06 10:06:53.8326296: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2022-04-06 10:06:53.8644200: ControllerInterface.cpp(106)] Running method checkForUpdates
+[Info: 2022-04-06 10:06:53.8645167: client_handler.cpp(423)] Handling PostTelemetryEvent message
+[Info: 2022-04-06 10:06:53.8685605: ControllerInterface.cpp(106)] Running method getAccountData
+[Info: 2022-04-06 10:06:53.8874571: UnifiedAccounts.cpp(323)] Internet state in main process: online=1
+[Info: 2022-04-06 10:06:53.8875950: NetQueue.cpp(632)] NetQueue: Starting net action https://launchercontent.mojang.com/accountMigration.json
+[Info: 2022-04-06 10:06:53.9137798: ControllerInterface.cpp(106)] Running method gamecoreLauncherInstallState
+[Info: 2022-04-06 10:06:53.9188865: GamecoreClientApi_win32.cpp(141)] Found matching amuid : Microsoft.4297127D64EC6_8wekyb3d8bbwe!Minecraft
+[Info: 2022-04-06 10:06:53.9189827: LauncherController.cpp(1257)] Windows Store Launcher is Installed
+[Info: 2022-04-06 10:06:53.9190991: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2022-04-06 10:06:53.9191904: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2022-04-06 10:06:54.1481323: NetQueue.cpp(472)] NetQueue: Primary ip: 2620:1ec:27::cafe:1959, Host: launchercontent.mojang.com
+[Info: 2022-04-06 10:06:54.1481745: NetQueue.cpp(551)] NetQueue: Action finished: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2022-04-06 10:06:54.1481928: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2022-04-06 10:06:54.1482422: UnifiedAccounts.cpp(700)] Fetched account migration dates from https://launchercontent.mojang.com/accountMigration.json
+[Info: 2022-04-06 10:06:54.1483093: UnifiedAccounts.cpp(343)] Account migration dates: migrationStarts=2021-05-23T00:00:00.000Z forcedMigrationStarts=2022-03-10T18:00:00.000Z forcedMigrationEnds=2099-01-01T00:00:00.000Z
+[Info: 2022-04-06 10:06:54.3081141: NetQueue.cpp(472)] NetQueue: Primary ip: 2620:1ec:21::15, Host: device.auth.xboxlive.com
+[Info: 2022-04-06 10:06:54.3081499: NetQueue.cpp(551)] NetQueue: Action finished: device.auth.xboxlive.com
+[Info: 2022-04-06 10:06:54.3081988: NetQueue.cpp(579)] NetQueue: Action finalized: device.auth.xboxlive.com
+[Info: 2022-04-06 10:06:54.3896034: Xal.lib(0)] XAL: Clock skew updated. Server time: 2022-04-06T10:06:54.9650000Z - System time: 2022-04-06T10:06:54.3890000Z = skew (seconds) 0
+[Info: 2022-04-06 10:06:54.3896971: Xal.lib(0)] XAL: [op 243985904] Operation SaveClockSkew is starting
+[Info: 2022-04-06 10:06:54.3897159: Xal.lib(0)] XAL: [op 243985904]     with CV 'pmGrxxpTg4DcA9zI.0.2'
+[Info: 2022-04-06 10:06:54.3897366: Xal.lib(0)] XAL: [op 251079560] Client operation StorageWritePlatformOperation starting
+[Info: 2022-04-06 10:06:54.3897683: Xal.lib(0)] XAL: [op 251079560] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2022-04-06 10:06:54.3897866: Xal.lib(0)] XAL: [op 251079560] Added operation as handle 0EF72BF4 with type 6B26EDFC
+[Info: 2022-04-06 10:06:54.3897994: XalStorage.cpp(205)] [op 0EF72BF4] Xal Write callback - Started
+[Info: 2022-04-06 10:06:54.3899393: Xal.lib(0)] XAL: [op 251079560] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2022-04-06 10:06:54.3899584: Xal.lib(0)] XAL: [op 251079560] Cleared operation handle 0EF72BF4
+[Info: 2022-04-06 10:06:54.3899730: Xal.lib(0)] XAL: [op 251079560] Client operation StorageWritePlatformOperation succeeded
+[Info: 2022-04-06 10:06:54.3900331: XalStorage.cpp(258)] [op 0EF72BF4] Xal Write callback - Succeeded
+[Info: 2022-04-06 10:06:54.5145424: Xal.lib(0)] XAL: [op 251079560] Client operation StorageWritePlatformOperation continuing
+[Info: 2022-04-06 10:06:54.5145893: Xal.lib(0)] XAL: [op 243985904] Operation SaveClockSkew succeeded.
+[Info: 2022-04-06 10:06:54.5147608: Xal.lib(0)] XAL: [op 250399432] Operation WriteCacheData is starting
+[Info: 2022-04-06 10:06:54.5147837: Xal.lib(0)] XAL: [op 250399432]     with CV 'pmGrxxpTg4DcA9zI.0.2'
+[Info: 2022-04-06 10:06:54.5148041: Xal.lib(0)] XAL: [op 251080968] Client operation StorageWritePlatformOperation starting
+[Info: 2022-04-06 10:06:54.5148261: Xal.lib(0)] XAL: [op 251079560] Client operation StorageWritePlatformOperation destroyed
+[Info: 2022-04-06 10:06:54.5148567: Xal.lib(0)] XAL: [op 251080968] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2022-04-06 10:06:54.5148750: Xal.lib(0)] XAL: [op 251080968] Added operation as handle 0EF73174 with type 6B26EDFC
+[Info: 2022-04-06 10:06:54.5148876: XalStorage.cpp(205)] [op 0EF73174] Xal Write callback - Started
+[Info: 2022-04-06 10:06:54.5150114: Xal.lib(0)] XAL: [op 251080968] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2022-04-06 10:06:54.5150331: Xal.lib(0)] XAL: [op 251080968] Cleared operation handle 0EF73174
+[Info: 2022-04-06 10:06:54.5150505: Xal.lib(0)] XAL: [op 251080968] Client operation StorageWritePlatformOperation succeeded
+[Info: 2022-04-06 10:06:54.5151147: XalStorage.cpp(221)] [op 0EF73174] Xal Write callback - Succeeded
+[Info: 2022-04-06 10:06:54.6370139: Xal.lib(0)] XAL: [op 251080968] Client operation StorageWritePlatformOperation continuing
+[Info: 2022-04-06 10:06:54.6371099: Xal.lib(0)] XAL: [op 250399432] Operation WriteCacheData succeeded.
+[Info: 2022-04-06 10:06:54.6372763: Xal.lib(0)] XAL: [op 90566272] RefreshDtoken token fetch done.
+[Info: 2022-04-06 10:06:54.6373065: Xal.lib(0)] XAL: [op 90566272] Operation RefreshDtoken succeeded.
+[Info: 2022-04-06 10:06:54.6373705: Xal.lib(0)] XAL: [op 251274384] Operation GetDtoken succeeded.
+[Info: 2022-04-06 10:06:54.6374528: Xal.lib(0)] XAL: [op 94018048] Operation InitializeTokenStack succeeded.
+[Info: 2022-04-06 10:06:54.6375122: Xal.lib(0)] XAL: [op 18851360] Operation InitializeComponents succeeded.
+[Info: 2022-04-06 10:06:54.6375992: Xal.lib(0)] XAL: [op 251080968] Client operation StorageWritePlatformOperation destroyed
+[Info: 2022-04-06 10:06:54.6756455: ControllerInterface.cpp(106)] Running method setInternetState
+[Info: 2022-04-06 10:06:54.6757218: ControllerInterface.cpp(106)] Running method onInternetStateChange
+[Info: 2022-04-06 10:06:54.6757263: UnifiedAccounts.cpp(351)] Internet state: online=1
+[Info: 2022-04-06 10:06:54.6758723: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2022-04-06T10:06:54Z
+[Info: 2022-04-06 10:06:54.9556249: NetQueue.cpp(472)] NetQueue: Primary ip: 52.222.192.16, Host: launchermeta.mojang.com
+[Info: 2022-04-06 10:06:54.9556713: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2022-04-06T10:06:54Z
+[Info: 2022-04-06 10:06:54.9556883: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2022-04-06T10:06:54Z
+[Info: 2022-04-06 10:06:54.9557739: GameVersionManager.cpp(432)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2022-04-06T10:06:54Z
+[Info: 2022-04-06 10:07:02.4587144: Xal.lib(0)] XAL: [op 90215712] Operation UploadTelemetryEvents is starting
+[Info: 2022-04-06 10:07:02.4588077: Xal.lib(0)] XAL: [op 19443104] Operation UploadTelemetryEventsWithDelay succeeded.
+[Info: 2022-04-06 10:07:02.4589401: NetQueue.cpp(632)] NetQueue: Starting net action vortex.data.microsoft.com
+[Info: 2022-04-06 10:07:02.8305084: NetQueue.cpp(472)] NetQueue: Primary ip: 40.77.226.250, Host: vortex.data.microsoft.com
+[Info: 2022-04-06 10:07:02.8305641: NetQueue.cpp(551)] NetQueue: Action finished: vortex.data.microsoft.com
+[Info: 2022-04-06 10:07:02.8306178: NetQueue.cpp(579)] NetQueue: Action finalized: vortex.data.microsoft.com
+[Info: 2022-04-06 10:07:02.8315886: Xal.lib(0)] XAL: [op 90215712] Operation UploadTelemetryEvents succeeded.
+[Info: 2022-04-06 10:07:33.7231891: ControllerInterface.cpp(106)] Running method loginWithXbox
+[Info: 2022-04-06 10:07:33.7233105: XalApi.cpp(289)] Performing account switch
+[Info: 2022-04-06 10:07:33.7234813: Xal.lib(0)] XAL: [op 250877352] Operation AddUser is starting
+[Info: 2022-04-06 10:07:33.7235161: Xal.lib(0)] XAL: [op 250877352]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.7807559: Xal.lib(0)] XAL: [op 89935768] Operation SignIn is starting
+[Info: 2022-04-06 10:07:33.7808014: Xal.lib(0)] XAL: [op 89935768]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.7808823: Xal.lib(0)] XAL: [op 88656064] Operation InitializeTokenStack is starting
+[Info: 2022-04-06 10:07:33.7809014: Xal.lib(0)] XAL: [op 88656064]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.7809795: Xal.lib(0)] XAL: [op 89477912] Operation LoadDeviceIdentity is starting
+[Info: 2022-04-06 10:07:33.7810004: Xal.lib(0)] XAL: [op 89477912]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.7810182: Xal.lib(0)] XAL: [op 89477912] Operation LoadDeviceIdentity succeeded.
+[Info: 2022-04-06 10:07:33.7811449: Xal.lib(0)] XAL: [op 251277384] Operation GetDtoken is starting
+[Info: 2022-04-06 10:07:33.7811637: Xal.lib(0)] XAL: [op 251277384]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.7811802: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000317C2921F634)
+[Info: 2022-04-06 10:07:33.7812064: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2022-04-20T10:06:54.9650000Z, now:2022-04-06T10:07:34.3560000Z, systemNow:2022-04-06T10:07:33.7800000Z}
+[Info: 2022-04-06 10:07:33.7812259: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000317C2921F634)
+[Info: 2022-04-06 10:07:33.7812419: Xal.lib(0)] XAL: [op 251277384] Operation GetDtoken succeeded.
+[Info: 2022-04-06 10:07:33.7813092: Xal.lib(0)] XAL: [op 88656064] Operation InitializeTokenStack succeeded.
+[Info: 2022-04-06 10:07:33.7814375: Xal.lib(0)] XAL: [op 91308000] Operation GetDefaultUser is starting
+[Info: 2022-04-06 10:07:33.7814555: Xal.lib(0)] XAL: [op 91308000]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.7815199: Xal.lib(0)] XAL: [op 88656064] Operation InitializeTokenStack is starting
+[Info: 2022-04-06 10:07:33.7815364: Xal.lib(0)] XAL: [op 88656064]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.7816088: Xal.lib(0)] XAL: [op 89477912] Operation LoadDeviceIdentity is starting
+[Info: 2022-04-06 10:07:33.7816258: Xal.lib(0)] XAL: [op 89477912]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.7816412: Xal.lib(0)] XAL: [op 89477912] Operation LoadDeviceIdentity succeeded.
+[Info: 2022-04-06 10:07:33.7817156: Xal.lib(0)] XAL: [op 88656064] Operation InitializeTokenStack succeeded.
+[Info: 2022-04-06 10:07:33.7818427: Xal.lib(0)] XAL: [op 89805752] Operation LoadDefaultUser is starting
+[Info: 2022-04-06 10:07:33.7818605: Xal.lib(0)] XAL: [op 89805752]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.7818831: Xal.lib(0)] XAL: [op 251077976] Client operation StorageReadPlatformOperation starting
+[Info: 2022-04-06 10:07:33.7819059: Xal.lib(0)] XAL: [op 251077976] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2022-04-06 10:07:33.7819233: Xal.lib(0)] XAL: [op 251077976] Added operation as handle 0EF725C4 with type 6B26EE04
+[Info: 2022-04-06 10:07:33.7819367: XalStorage.cpp(264)] [op 0EF725C4] Xal Read callback - Started
+[Info: 2022-04-06 10:07:33.7819537: XalStorage.cpp(344)] [op 0EF725C4] Xal Read callback - Failed
+[Info: 2022-04-06 10:07:33.7820741: Xal.lib(0)] XAL: [op 251077976] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2022-04-06 10:07:33.7820930: Xal.lib(0)] XAL: [op 251077976] Cleared operation handle 0EF725C4
+[Info: 2022-04-06 10:07:33.7821094: Xal.lib(0)] XAL: [op 251077976] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2022-04-06 10:07:33.9053996: Xal.lib(0)] XAL: [op 251077976] Client operation StorageReadPlatformOperation continuing
+[Warning: 2022-04-06 10:07:33.9054474: Xal.lib(0)] XAL: [op 89805752] Failed to read default user with error 0x89235107: Client operation failed
+[Warning: 2022-04-06 10:07:33.9054669: Xal.lib(0)] XAL: [op 89805752] Operation LoadDefaultUser failed with result: 0x89235172 - No user found
+[Info: 2022-04-06 10:07:33.9056027: Xal.lib(0)] XAL: [op 252673152] Operation LoadFociUser is starting
+[Info: 2022-04-06 10:07:33.9056224: Xal.lib(0)] XAL: [op 252673152]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:33.9056452: Xal.lib(0)] XAL: [op 251075688] Client operation StorageReadPlatformOperation starting
+[Info: 2022-04-06 10:07:33.9056703: Xal.lib(0)] XAL: [op 251077976] Client operation StorageReadPlatformOperation destroyed
+[Info: 2022-04-06 10:07:33.9056931: Xal.lib(0)] XAL: [op 251075688] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2022-04-06 10:07:33.9057141: Xal.lib(0)] XAL: [op 251075688] Added operation as handle 0EF71CD4 with type 6B26EE04
+[Info: 2022-04-06 10:07:33.9057268: XalStorage.cpp(264)] [op 0EF71CD4] Xal Read callback - Started
+[Info: 2022-04-06 10:07:33.9057445: XalStorage.cpp(344)] [op 0EF71CD4] Xal Read callback - Failed
+[Info: 2022-04-06 10:07:33.9058663: Xal.lib(0)] XAL: [op 251075688] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2022-04-06 10:07:33.9058848: Xal.lib(0)] XAL: [op 251075688] Cleared operation handle 0EF71CD4
+[Info: 2022-04-06 10:07:33.9059001: Xal.lib(0)] XAL: [op 251075688] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2022-04-06 10:07:34.0296604: Xal.lib(0)] XAL: [op 251075688] Client operation StorageReadPlatformOperation continuing
+[Warning: 2022-04-06 10:07:34.0297084: Xal.lib(0)] XAL: [op 252673152] Failed to read FOCI user ticket set with error 0x89235107: Client operation failed
+[Warning: 2022-04-06 10:07:34.0297286: Xal.lib(0)] XAL: [op 252673152] Operation LoadFociUser failed with result: 0x89235172 - No user found
+[Warning: 2022-04-06 10:07:34.0298265: Xal.lib(0)] XAL: Reading migrated MSA refresh token failed with code 0x89235172
+[Warning: 2022-04-06 10:07:34.0298465: Xal.lib(0)] XAL: [op 91308000] Operation GetDefaultUser failed with result: 0x89235172 - No user found
+[Info: 2022-04-06 10:07:34.0299728: Xal.lib(0)] XAL: [op 252672608] Operation LoadFociUser is starting
+[Info: 2022-04-06 10:07:34.0299961: Xal.lib(0)] XAL: [op 252672608]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:34.0300179: Xal.lib(0)] XAL: [op 251081144] Client operation StorageReadPlatformOperation starting
+[Info: 2022-04-06 10:07:34.0300423: Xal.lib(0)] XAL: [op 251075688] Client operation StorageReadPlatformOperation destroyed
+[Info: 2022-04-06 10:07:34.0300636: Xal.lib(0)] XAL: [op 251081144] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2022-04-06 10:07:34.0300809: Xal.lib(0)] XAL: [op 251081144] Added operation as handle 0EF73224 with type 6B26EE04
+[Info: 2022-04-06 10:07:34.0300941: XalStorage.cpp(264)] [op 0EF73224] Xal Read callback - Started
+[Info: 2022-04-06 10:07:34.0301124: XalStorage.cpp(344)] [op 0EF73224] Xal Read callback - Failed
+[Info: 2022-04-06 10:07:34.0302382: Xal.lib(0)] XAL: [op 251081144] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2022-04-06 10:07:34.0302570: Xal.lib(0)] XAL: [op 251081144] Cleared operation handle 0EF73224
+[Info: 2022-04-06 10:07:34.0302733: Xal.lib(0)] XAL: [op 251081144] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2022-04-06 10:07:34.1523709: Xal.lib(0)] XAL: [op 251081144] Client operation StorageReadPlatformOperation continuing
+[Warning: 2022-04-06 10:07:34.1524454: Xal.lib(0)] XAL: [op 252672608] Failed to read FOCI user ticket set with error 0x89235107: Client operation failed
+[Warning: 2022-04-06 10:07:34.1524707: Xal.lib(0)] XAL: [op 252672608] Operation LoadFociUser failed with result: 0x89235172 - No user found
+[Info: 2022-04-06 10:07:34.1528612: Xal.lib(0)] XAL: [op 250552344] Operation GetMsaTicket is starting
+[Info: 2022-04-06 10:07:34.1528831: Xal.lib(0)] XAL: [op 250552344]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:34.1529516: Xal.lib(0)] XAL: [op 88656328] Operation InitializeTokenStack is starting
+[Info: 2022-04-06 10:07:34.1529685: Xal.lib(0)] XAL: [op 88656328]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:34.1530479: Xal.lib(0)] XAL: [op 89477912] Operation LoadDeviceIdentity is starting
+[Info: 2022-04-06 10:07:34.1530675: Xal.lib(0)] XAL: [op 89477912]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:34.1530828: Xal.lib(0)] XAL: [op 89477912] Operation LoadDeviceIdentity succeeded.
+[Info: 2022-04-06 10:07:34.1532342: Xal.lib(0)] XAL: [op 251277984] Operation GetDtoken is starting
+[Info: 2022-04-06 10:07:34.1532513: Xal.lib(0)] XAL: [op 251277984]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:34.1532682: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000317C3F4F9358)
+[Info: 2022-04-06 10:07:34.1533995: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2022-04-20T10:06:54.9650000Z, now:2022-04-06T10:07:34.7280000Z, systemNow:2022-04-06T10:07:34.1530000Z}
+[Info: 2022-04-06 10:07:34.1534231: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000317C3F4F9358)
+[Info: 2022-04-06 10:07:34.1534387: Xal.lib(0)] XAL: [op 251277984] Operation GetDtoken succeeded.
+[Info: 2022-04-06 10:07:34.1535336: Xal.lib(0)] XAL: [op 88656328] Operation InitializeTokenStack succeeded.
+[Info: 2022-04-06 10:07:34.1537382: Xal.lib(0)] XAL: [op 251278584] Operation GetDtoken is starting
+[Info: 2022-04-06 10:07:34.1537589: Xal.lib(0)] XAL: [op 251278584]     with CV 'pmGrxxpTg4DcA9zI.7.0'
+[Info: 2022-04-06 10:07:34.1537750: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000317C3F574E40)
+[Info: 2022-04-06 10:07:34.1537994: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2022-04-20T10:06:54.9650000Z, now:2022-04-06T10:07:34.7280000Z, systemNow:2022-04-06T10:07:34.1530000Z}
+[Info: 2022-04-06 10:07:34.1538170: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000317C3F574E40)
+[Info: 2022-04-06 10:07:34.1538347: Xal.lib(0)] XAL: [op 251278584] Operation GetDtoken succeeded.
+[Info: 2022-04-06 10:07:34.1547809: Xal.lib(0)] XAL: [op 251081144] Client operation StorageReadPlatformOperation destroyed
+[Info: 2022-04-06 10:07:34.1600709: NetQueue.cpp(632)] NetQueue: Starting net action sisu.xboxlive.com
+[Info: 2022-04-06 10:07:34.9429932: NetQueue.cpp(472)] NetQueue: Primary ip: 104.43.136.153, Host: sisu.xboxlive.com
+[Info: 2022-04-06 10:07:34.9431376: NetQueue.cpp(551)] NetQueue: Action finished: sisu.xboxlive.com
+[Info: 2022-04-06 10:07:34.9432472: NetQueue.cpp(579)] NetQueue: Action finalized: sisu.xboxlive.com
+[Info: 2022-04-06 10:07:35.0168890: Xal.lib(0)] XAL: [op 92316704] Client operation WebViewPlatformOperation starting
+[Info: 2022-04-06 10:07:35.0169435: Xal.lib(0)] XAL: [op 92316704] Client operation WebViewPlatformOperation calling platform handler
+[Info: 2022-04-06 10:07:35.0169630: Xal.lib(0)] XAL: [op 92316704] Added operation as handle 0580A48C with type 6B26EE14
+[Info: 2022-04-06 10:07:35.0365341: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "C:\Users\lesta\Desktop\PortableMC\bin\Minecraft.exe" --type=renderer --no-sandbox --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --field-trial-handle=2188,11584302049128795658,4211224788800941631,131072 --enable-features=CastMediaRouteProvider --lang=en-US --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --log-severity=info --launcherui --workdir="C:\Users\lesta\Desktop\PortableMC\data\.minecraft" /prefetch:1
+[Info: 2022-04-06 10:07:35.0368841: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "C:\Users\lesta\Desktop\PortableMC\bin\Minecraft.exe" --type=renderer --no-sandbox --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --field-trial-handle=2188,11584302049128795658,4211224788800941631,131072 --enable-features=CastMediaRouteProvider --lang=en-US --log-file="C:\Users\lesta\Desktop\PortableMC\data\.minecraft\launcher_cef_log.txt" --log-severity=info --launcherui --workdir="C:\Users\lesta\Desktop\PortableMC\data\.minecraft" /prefetch:1
+[Info: 2022-04-06 10:07:35.2266079: LauncherMain.cpp(107)] Initiated models
+[Info: 2022-04-06 10:07:35.2278005: LauncherController.cpp(456)] Constructing launcher controller with workDir: C:\...\.minecraft, isActive: 0
+[Info: 2022-04-06 10:07:35.2382924: LauncherAppRenderer.cpp(172)] Javascript bridge extended in OnWebKitInitialized.
+[Info: 2022-04-06 10:07:36.4168830: client_handler.cpp(886)] NotifyBrowserClosing
+[Info: 2022-04-06 10:07:36.4170157: browser_window.cpp(59)] OnBrowserClosing
+[Info: 2022-04-06 10:07:36.4242056: client_handler.cpp(915)] NotifyBrowserClosed
+[Info: 2022-04-06 10:07:36.4242517: browser_window.cpp(66)] OnBrowserClosed (with delegate)
+[Info: 2022-04-06 10:07:36.4243541: root_window_manager.cpp(387)] A window has been closed: 05615CB0
+[Info: 2022-04-06 10:07:36.4245377: Xal.lib(0)] XAL: [op 92316704] Client operation WebViewPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Canceled' (2)
+[Info: 2022-04-06 10:07:36.4245633: Xal.lib(0)] XAL: [op 92316704] Cleared operation handle 0580A48C
+[Info: 2022-04-06 10:07:36.4245810: Xal.lib(0)] XAL: [op 92316704] Client operation WebViewPlatformOperation failed with result 0x80004004: Operation was canceled
+[Info: 2022-04-06 10:07:36.5159985: Xal.lib(0)] XAL: [op 92316704] Client operation WebViewPlatformOperation continuing
+[Info: 2022-04-06 10:07:36.5161137: Xal.lib(0)] XAL: [op 93817792] Operation UploadTelemetryEventsWithDelay is starting
+[Warning: 2022-04-06 10:07:36.5161413: Xal.lib(0)] XAL: [op 250552344] Operation GetMsaTicket failed with result: 0x80004004 - Operation was canceled
+[Warning: 2022-04-06 10:07:36.5162318: Xal.lib(0)] XAL: [op 89935768] Operation SignIn failed with result: 0x80004004 - Operation was canceled
+[Warning: 2022-04-06 10:07:36.5163028: Xal.lib(0)] XAL: [op 250877352] Operation AddUser failed with result: 0x80004004 - Operation was canceled
+[Info: 2022-04-06 10:07:36.5164197: Xal.lib(0)] XAL: [op 90212272] Operation UploadTelemetryEvents is starting
+[Info: 2022-04-06 10:07:36.5164661: Xal.lib(0)] XAL: XalAddUserWithUiAsync calling back to client with result 'Operation was canceled' (0x80004004)
+[Info: 2022-04-06 10:07:36.5164953: Xal.lib(0)] XAL: [op 92316704] Client operation WebViewPlatformOperation destroyed
+[Error: 2022-04-06 10:07:36.5166253: XalApi.cpp(663)] Failed to sign-in with UI while switching account. XAL Status: 22
+[Info: 2022-04-06 10:07:36.5166455: NetQueue.cpp(632)] NetQueue: Starting net action vortex.data.microsoft.com
+[Error: 2022-04-06 10:07:36.5166840: UserIdentity.cpp(302)] Failed to switch account. XAL status: 22
+[Warning: 2022-04-06 10:07:36.5167521: UserIdentity.cpp(341)] No user logged in
+[Info: 2022-04-06 10:07:36.5262158: UnifiedAccounts.cpp(411)] MSA sign-in failed
+[Info: 2022-04-06 10:07:36.5271733: ControllerInterface.cpp(106)] Running method getAccountData
+[Info: 2022-04-06 10:07:36.5272250: UnifiedAccounts.cpp(323)] Internet state in main process: online=1
+[Info: 2022-04-06 10:07:36.5278853: NetQueue.cpp(632)] NetQueue: Starting net action https://launchercontent.mojang.com/accountMigration.json
+[Info: 2022-04-06 10:07:36.5787627: NetQueue.cpp(472)] NetQueue: Primary ip: 2620:1ec:27::cafe:1959, Host: launchercontent.mojang.com
+[Info: 2022-04-06 10:07:36.5788020: NetQueue.cpp(551)] NetQueue: Action finished: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2022-04-06 10:07:36.5788208: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2022-04-06 10:07:36.5788887: UnifiedAccounts.cpp(700)] Fetched account migration dates from https://launchercontent.mojang.com/accountMigration.json
+[Info: 2022-04-06 10:07:36.5789459: UnifiedAccounts.cpp(343)] Account migration dates: migrationStarts=2021-05-23T00:00:00.000Z forcedMigrationStarts=2022-03-10T18:00:00.000Z forcedMigrationEnds=2099-01-01T00:00:00.000Z
+[Info: 2022-04-06 10:07:36.6471825: NetQueue.cpp(472)] NetQueue: Primary ip: 40.77.226.250, Host: vortex.data.microsoft.com
+[Info: 2022-04-06 10:07:36.6472213: NetQueue.cpp(551)] NetQueue: Action finished: vortex.data.microsoft.com
+[Info: 2022-04-06 10:07:36.6472609: NetQueue.cpp(579)] NetQueue: Action finalized: vortex.data.microsoft.com
+[Info: 2022-04-06 10:07:36.7665451: Xal.lib(0)] XAL: [op 90212272] Operation UploadTelemetryEvents succeeded.
+[Info: 2022-04-06 10:07:37.9871392: client_handler.cpp(886)] NotifyBrowserClosing
+[Info: 2022-04-06 10:07:37.9872679: browser_window.cpp(59)] OnBrowserClosing
+[Info: 2022-04-06 10:07:37.9998042: client_handler.cpp(915)] NotifyBrowserClosed
+[Info: 2022-04-06 10:07:37.9998465: browser_window.cpp(66)] OnBrowserClosed (with delegate)
+[Info: 2022-04-06 10:07:37.9999836: root_window_manager.cpp(359)] Main window has been closed: 057BE018
+[Info: 2022-04-06 10:07:38.0000185: root_window_manager.cpp(391)] All windows are gone.
+[Info: 2022-04-06 10:07:38.0000367: root_window_manager.cpp(393)] Checking if we can close the application...
+[Info: 2022-04-06 10:07:38.0000686: main_context.cpp(357)] Will shutdown!
+[Info: 2022-04-06 10:07:38.0001445: ProductManager.cpp(201)] Stopping ~ProductManager..
+[Info: 2022-04-06 10:07:38.0671615: ProductManager.cpp(217)] ~ProductManager was stopped successfully
+[Info: 2022-04-06 10:07:38.0673800: Xal.lib(0)] XAL: Cleanup starting
+[Warning: 2022-04-06 10:07:38.1274197: Xal.lib(0)] XAL: [op 93817792] Operation UploadTelemetryEventsWithDelay failed with result: 0x80004004 - Operation was canceled
+[Info: 2022-04-06 10:07:38.1274673: Xal.lib(0)] XAL: @@@ Terminating with 1 queues
+[Info: 2022-04-06 10:07:38.1274930: Xal.lib(0)] XAL: Cleanup pending
+[Info: 2022-04-06 10:07:38.1275116: Xal.lib(0)] XAL: All queues terminated
+[Info: 2022-04-06 10:07:38.3633875: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2022-04-06 10:07:38.3634242: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2022-04-06 10:07:38.3634710: NetQueue.cpp(742)] NetQueue: Worker thread shutting down.
+[Info: 2022-04-06 10:07:38.3645005: NetQueue.cpp(229)] NetQueue: Done.
+[Info: 2022-04-06 10:07:38.3677220: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2022-04-06 10:07:38.3677654: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2022-04-06 10:07:38.3678003: NetQueue.cpp(742)] NetQueue: Worker thread shutting down.
+[Info: 2022-04-06 10:07:38.3707055: NetQueue.cpp(229)] NetQueue: Done.
+[Info: 2022-04-06 10:07:38.3914665: StartLibrary.cpp(104)] Launcher ended with 0
+[Info: 2022-04-06 10:07:38.3915047: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2022-04-06 10:07:38.3915172: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2022-04-06 10:07:38.3918586: NetQueue.cpp(742)] NetQueue: Worker thread shutting down.
+[Info: 2022-04-06 10:07:38.3932521: NetQueue.cpp(229)] NetQueue: Done.
