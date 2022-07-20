@@ -19,8 +19,17 @@ If you want install Optifine, Iris Shaders (It's possible!):
 
 1 - On Optifine .jar installer, target the .minecraft in the '\data' folder, same for Iris, Forge, Fabric.
 
-# Updates?
-I will add the possibilities to host server in this standalone folder to play with your friends locally or online.
+# Servers setup
+
+You can host servers directly in the folder!
+
+1 - Go to the server folder and you can place every type of servers .jar, for plugins, mods, ect...
+
+2 - Place the .jar in the folder and rename it on: server.jar
+
+3 - You can play on your server!
+
+Note: (You can change the name of the .jar, you just need to go into the server.bat and change 'server.jar' in anything, for example: 'myfirstserver.jar')
 
 # Help
 Come to Discord!
